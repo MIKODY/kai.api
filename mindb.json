@@ -35,9 +35,33 @@
 "I5": [
     {
       "HINT": "K ␣ ␣\n W ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "KIMWOOSEOK",
+      "NAME": "KIM WOOSEOK",
       "IMAGE": "https://cdn.discordapp.com/attachments/884116364841852979/915110438633607198/SoloistKimWooseok.png"
     }
+  ],
+
+"S1": [
+    {
+      "HINT": "N ␣ ␣ ␣\n ␣ ␣ ␣ ␣ ␣",
+      "NAME": "NEXT LEVEL",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/915200782792552458/aespaNextLevel.mp4"
+    }
+  ],
+
+"S2": [
+    {
+      "HINT": "␣ ␣ ␣",
+      "NAME": "RUN",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/915200782146605076/BTSRun.mp4"
+    }
+  ],
+
+"S3": [
+    {
+      "HINT": "W ␣ ␣ ␣\n ␣ ␣\n ␣ ␣ ␣ ␣",
+      "NAME": "WHAT IS LOVE",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/915200782465368074/TWICEWhatisLove.mp4"
+    }
   ]
-    
+
 }

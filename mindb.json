@@ -62,6 +62,27 @@
       "NAME": "WHAT IS LOVE",
       "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/915200782465368074/TWICEWhatisLove.mp4"
     }
+  ],
+
+"T1": [
+    {
+      "QST": "Which K-Pop Music Video became the fastest video to reach 10 million in 13 minutes?",
+      "ANSWER": "BUTTER",
+    }
+  ],
+
+"T2": [
+    {
+      "QST": "V (Kim Taehyung), has a dog that is loved dearly by fans. What is its name?",
+      "ANSWER": "YEONTAN",
+    }
+  ],
+
+"T3": [
+    {
+      "QST": "Girls Planet 999's Finale was aired on October 22, 2021. Who ended up winning 1st place? (Full Name)",
+      "ANSWER": "KIM CHAEHYUN",
+    }
   ]
 
 }

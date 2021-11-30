@@ -104,6 +104,22 @@
     }
   ],
 
+"S4": [
+    {
+      "HINT": "I ␣ ␣\n ␣ ␣ ␣ ␣ ␣",
+      "NAME": "ICE CREAM",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/915264059581034506/BLACKPINKIceCream.mp4"
+    }
+  ],
+
+"S5": [
+    {
+      "HINT": "M ␣ ␣ ␣",
+      "NAME": "MMMH",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/915264068619747348/KaiMmmh.mp4"
+    }
+  ],
+
 "T1": [
     {
       "HINT": "Which K-Pop Music Video became the fastest video to reach 10 million in 13 minutes?",

@@ -1,0 +1,43 @@
+{
+
+"I1": [
+    {
+      "HINT": "Y ␣ ␣ ␣",
+      "NAME": "YOON",
+      "IMAGE": "https://cdn.discordapp.com/attachments/884116364841852979/915110437610225664/STAYCYoon.png"
+    }
+  ],
+
+"I2": [
+    {
+      "HINT": "M ␣ ␣ ␣ ␣ ␣",
+      "NAME": "MIYEON",
+      "IMAGE": "https://cdn.discordapp.com/attachments/884116364841852979/915110437891211284/GIDLEMiyeon.png"
+    }
+  ],
+    
+"I3": [
+    {
+      "HINT": "L ␣ ␣",
+      "NAME": "LIA",
+      "IMAGE": "https://cdn.discordapp.com/attachments/884116364841852979/915110438130294815/ITZYLia.png"
+    }
+  ],
+
+"I4": [
+    {
+      "HINT": "M ␣ ␣ ␣ ␣",
+      "NAME": "MINJU",
+      "IMAGE": "https://cdn.discordapp.com/attachments/884116364841852979/915110438394552320/IZONEMinju.png"
+    }
+  ],
+    
+"I5": [
+    {
+      "HINT": "K ␣ ␣\n W ␣ ␣ ␣ ␣ ␣ ␣",
+      "NAME": "KIM WOOSEOK",
+      "IMAGE": "https://cdn.discordapp.com/attachments/884116364841852979/915110438633607198/SoloistKimWooseok.png"
+    }
+  ]
+    
+}

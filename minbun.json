@@ -1,0 +1,43 @@
+{
+
+"GTI1": [
+    {
+      "HINT": "Y aasf",
+      "NAME": "YOON",
+      "IMAGE": "https://cdn.discordapp.com/attachments/884116364841852979/915110437610225664/STAYCYoon.png"
+    }
+  ],
+
+"GTI2": [
+    {
+      "HINT": "M aaa",
+      "NAME": "MIYEON",
+      "IMAGE": "https://cdn.discordapp.com/attachments/884116364841852979/915110437891211284/GIDLEMiyeon.png"
+    }
+  ],
+    
+"GTI3": [
+    {
+      "HINT": "L",
+      "NAME": "LIA",
+      "IMAGE": "https://cdn.discordapp.com/attachments/884116364841852979/915110438130294815/ITZYLia.png"
+    }
+  ],
+
+"GTI4": [
+    {
+      "HINT": "M aaa",
+      "NAME": "MINJU",
+      "IMAGE": "https://cdn.discordapp.com/attachments/884116364841852979/915110438394552320/IZONEMinju.png"
+    }
+  ],
+    
+"GTI5": [
+    {
+      "HINT": "Kaaa",
+      "NAME": "KIM WOOSEOK",
+      "IMAGE": "https://cdn.discordapp.com/attachments/884116364841852979/915110438633607198/SoloistKimWooseok.png"
+    }
+  ]
+    
+}

@@ -40,6 +40,46 @@
     }
   ],
 
+"I6": [
+    {
+      "HINT": "K ␣ ␣ ␣ ␣",
+      "NAME": "KEEHO",
+      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/915260460725600336/P1HarmonyKeeho.png"
+    }
+  ],
+
+"I7": [
+    {
+      "HINT": "J ␣ ␣ ␣ ␣",
+      "NAME": "JIMIN",
+      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/915260460973035541/BTSJimin.png"
+    }
+  ],
+
+"I8": [
+    {
+      "HINT": "N ␣ ␣ ␣ ␣ ␣ ␣ ␣",
+      "NAME": "NINGNING",
+      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/915261089736962048/aespaNingNing.png"
+    }
+  ],
+
+"I9": [
+    {
+      "HINT": "␣ ␣ ␣",
+      "NAME": "KAI",
+      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/915260461203746887/EXOKai.png"
+    }
+  ],
+
+"I10": [
+    {
+      "HINT": "C ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣",
+      "NAME": "CHAERYEONG",
+      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/915260461472170054/ITZYChaeryeong.png"
+    }
+  ],
+
 "S1": [
     {
       "HINT": "N ␣ ␣ ␣\n ␣ ␣ ␣ ␣ ␣",
@@ -73,16 +113,29 @@
 
 "T2": [
     {
-      "HINT": "V (Kim Taehyung), has a dog that is loved dearly by fans.\n **What is its name?**",
+      "HINT": "V (Kim Taehyung), has a dog that is loved dearly by fans. What is its name?",
       "NAME": "YEONTAN"
     }
   ],
 
 "T3": [
     {
-      "HINT": "Girls Planet 999's Finale was aired on October 22, 2021.\n **Who ended up winning 1st place? (Full Name)**",
+      "HINT": "Girls Planet 999's Finale was aired on October 22, 2021. Who ended up winning 1st place? (Full Name)",
       "NAME": "KIM CHAEHYUN"
     }
-  ]
+  ],
 
+"T4": [
+    {
+      "HINT": "Which group was the fastest to win a music show in 5 days?",
+      "NAME": "X1"
+    }
+  ],
+
+"T5": [
+    {
+      "HINT": "Street Woman Fighter shed a light to the back-up dancers in the music industry. One of these dancers however, was notoriously famous for her rendition of 'Hey Mama'. Who is this dancer?",
+      "NAME": "NOZE"
+    }
+  ]
 }

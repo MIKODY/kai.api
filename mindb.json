@@ -72,11 +72,99 @@
     }
   ],
 
+"I11": [
+    {
+      "HINT": "Y ␣ ␣ ␣",
+      "NAME": "YERI",
+      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/916191874010742784/Yeri.png"
+    }
+  ],
+
+"I12": [
+    {
+      "HINT": "T ␣ ␣ ␣",
+      "NAME": "THE8",
+      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/916191874195288084/The8.png"
+    }
+  ],
+
 "I10": [
     {
       "HINT": "C ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣",
       "NAME": "CHAERYEONG",
       "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/915260461472170054/ITZYChaeryeong.png"
+    }
+  ],
+
+"I13": [
+    {
+      "HINT": "B ␣ ␣ ␣ ␣ ␣ ␣",
+      "NAME": "BEOMGYU",
+      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/916191874677608448/Beomgyu.png"
+    }
+  ],
+
+"I14": [
+    {
+      "HINT": "C ␣ ␣ ␣ ␣ ␣ ␣",
+      "NAME": "CHOERRY",
+      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/916191874950250536/Choerry.png"
+    }
+  ],
+
+"I15": [
+    {
+      "HINT": "G ␣ ␣ ␣ ␣ ␣ ␣",
+      "NAME": "GAHYEON",
+      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/916191875193524234/Gahyeon.png"
+    }
+  ],
+
+"I16": [
+    {
+      "HINT": "H ␣ ␣ ␣ ␣ ␣ ␣",
+      "NAME": "HANDONG",
+      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/916191875617132574/Handong.png"
+    }
+  ],
+
+"I17": [
+    {
+      "HINT": "H ␣ ␣ ␣ ␣ ␣",
+      "NAME": "HEEJIN",
+      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/916191875940089856/Heejin.png"
+    }
+  ],
+
+"I18": [
+    {
+      "HINT": "␣.␣",
+      "NAME": "I.N",
+      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/916191876233699368/IN.png"
+    }
+  ],
+
+"I19": [
+    {
+      "HINT": "R ␣ ␣ ␣",
+      "NAME": "ROSE",
+      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/916191877085163591/Rose.png"
+    }
+  ],
+
+"I20": [
+    {
+      "HINT": "S ␣ ␣ ␣ ␣ ␣ ␣",
+      "NAME": "SHOTARO",
+      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/916191877387128892/Shotaro.png"
+    }
+  ],
+
+"I21": [
+    {
+      "HINT": "T ␣ ␣ ␣ ␣ ␣ ␣",
+      "NAME": "TAEYEON",
+      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/916191877760426044/Taeyeon.png"
     }
   ],
 
@@ -120,6 +208,79 @@
     }
   ],
 
+"S6": [
+    {
+      "HINT": "D ␣ ␣ ␣",
+      "NAME": "DKDK",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/916188981346050099/fromis9DKDK.mp4"
+    }
+  ],
+
+"S7": [
+    {
+      "HINT": "R ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣",
+      "NAME": "ROLLERCOASTER",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/916188981681602570/ChunghaRollercoaster.mp4"
+    }
+  ],
+
+"S8": [
+    {
+      "HINT": "E ␣ ␣ ␣ ␣ ␣",
+      "NAME": "ELEVEN",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/916188982021337088/IVEEleven.mp4"
+    }
+  ],
+
+"S9": [
+    {
+      "HINT": "F ␣ ␣ ␣ ␣",
+      "NAME": "FIRST",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/916188982440783882/EVERGLOWFirst.mp4"
+    }
+  ],
+
+"S10": [
+    {
+      "HINT": "L ␣ ␣ ␣",
+      "NAME": "LOCO",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/916188982742765578/ITZYLoco.mp4"
+    }
+  ],
+
+"S11": [
+    {
+      "HINT": "K ␣/n ␣ ␣/n ␣ ␣ ␣",
+      "NAME": "KO KO BOP",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/916189007434637342/EXOKokobop.mp4"
+    }
+  ],
+
+"S12": [
+    {
+      "HINT": "M ␣ ␣",
+      "NAME": "MMM",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/916189007812108299/TREASUREMmm.mp4"
+    }
+  ],
+
+"S13": [
+    {
+      "HINT": "T ␣ ␣ ␣ ␣ ␣ ␣ ␣",
+      "NAME": "TEARDROP",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/916189008105705482/SF9Teardrop.mp4"
+    }
+  ],
+
+
+"S14": [
+    {
+      "HINT": "P ␣ ␣ ␣ ␣ ␣ ␣ ␣",
+      "NAME": "PANORAMA",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/916189008466411540/IZONEPanorama.mp4"
+    }
+  ],
+
 "T1": [
     {
       "HINT": "Which K-Pop Music Video became the fastest video to reach 10 million in 13 minutes?",
@@ -153,5 +314,41 @@
       "HINT": "Street Woman Fighter shed a light to the back-up dancers in the music industry. One of these dancers however, was notoriously famous for her rendition of 'Hey Mama'. Who is this dancer?",
       "NAME": "NOZE"
     }
+  ],
+
+"T6": [
+    {
+      "HINT": "Which kpop group has been together the longest? (20 Years)",
+      "NAME": "SHINHWA"
+    }
+  ],
+
+"T7": [
+    {
+      "HINT": "What group is known as the Nations Girl Group (NGG) in South Korea?",
+      "NAME": "TWICE"
+    }
+  ],
+
+"T8": [
+    {
+      "HINT": "Which TWICE member was originally eliminated from the show 'Sixteen' but then became the final member of the girl group?",
+      "NAME": "MOMO"
+    }
+  ],
+
+"T9": [
+    {
+      "HINT": "Which group was the First 4th Generation Girl Group to win a daesang?",
+      "NAME": "AESPA"
+    }
+  ],
+
+"T10": [
+    {
+      "HINT": "Which group was the First 4th Generation Boy Group to win a daesang?",
+      "NAME": "STRAYKIDS"
+    }
   ]
+
 }

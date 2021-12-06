@@ -3,7 +3,9 @@
 "BPRO_HY": [
     {
       "NAME": "`⚫` BLACKPINK **로제 ROSÉ**",
+      "RARITY": "Theme",
       "GROUP": "BLACKPINK",
+      "ERA": "How You Like That",
       "IMAGE": "https://cdn.discordapp.com/attachments/864091345085661204/866209272659181578/BPRO_HY.png"
     }
   ],
@@ -11,7 +13,9 @@
 "BPJN_HY": [
     {
       "NAME": "`⚫` BLACKPINK **제니 JENNIE**",
+      "RARITY": "Theme",
       "GROUP": "BLACKPINK",
+      "ERA": "How You Like That",
       "IMAGE": "https://cdn.discordapp.com/attachments/864091345085661204/866209259658280960/BPJN_HY.png"
     }
   ],
@@ -19,7 +23,9 @@
 "BPJI_HY": [
     {
       "NAME": "`⚫` BLACKPINK **지수 JISOO**",
+      "RARITY": "Theme",
       "GROUP": "BLACKPINK",
+      "ERA": "How You Like That",
       "IMAGE": "https://cdn.discordapp.com/attachments/864091345085661204/866209256155512862/BPJI_HY.png"
     }
   ],
@@ -27,8 +33,130 @@
 "BPLI_HY": [
     {
       "NAME": "`⚫` BLACKPINK **리사 LISA**",
+      "RARITY": "Theme",
       "GROUP": "BLACKPINK",
+      "ERA": "How You Like That",
       "IMAGE": "https://cdn.discordapp.com/attachments/864091345085661204/866209264678469682/BPLI_HY.png"
+    }
+  ],
+
+"BPRO_KL": [
+    {
+      "NAME": "`⚫` BLACKPINK **로제 ROSÉ**",
+      "RARITY": "Theme",
+      "GROUP": "BLACKPINK",
+      "ERA": "Kill This Love",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212988822274099/902449676870115328/BPRO_KL.png"
+    }
+  ],
+
+"BPJN_KL": [
+    {
+      "NAME": "`⚫` BLACKPINK **제니 JENNIE**",
+      "RARITY": "Theme",
+      "GROUP": "BLACKPINK",
+      "ERA": "Kill This Love",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212988822274099/902449676773646386/BPJN_KL.png"
+    }
+  ],
+    
+"BPJI_KL": [
+    {
+      "NAME": "`⚫` BLACKPINK **지수 JISOO**",
+      "RARITY": "Theme",
+      "GROUP": "BLACKPINK",
+      "ERA": "Kill This Love",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212988822274099/902449676626837514/BPJI_KL.png"
+    }
+  ],
+
+"BPLI_KL": [
+    {
+      "NAME": "`⚫` BLACKPINK **리사 LISA**",
+      "RARITY": "Theme",
+      "GROUP": "BLACKPINK",
+      "ERA": "Kill This Love",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212988822274099/902449679130849320/BPLI_KL.png"
+    }
+  ],
+
+"BPRO_DD": [
+    {
+      "NAME": "`💗` BLACKPINK **로제 ROSÉ**",
+      "RARITY": "Special",
+      "GROUP": "BLACKPINK",
+      "ERA": "Square Up",
+      "IMAGE": "https://i.imgur.com/b0iMDxf.gif"
+    }
+  ],
+
+"BPJN_DD": [
+    {
+      "NAME": "`💗` BLACKPINK **제니 JENNIE**",
+      "RARITY": "Special",
+      "GROUP": "BLACKPINK",
+      "ERA": "Square Up",
+      "IMAGE": "https://i.imgur.com/3tlQjth.gif"
+    }
+  ],
+    
+"BPJI_DD": [
+    {
+      "NAME": "`💗` BLACKPINK **지수 JISOO**",
+      "RARITY": "Special",
+      "GROUP": "BLACKPINK",
+      "ERA": "Square Up",
+      "IMAGE": "https://i.imgur.com/KxE8Fce.gif"
+    }
+  ],
+
+"BPLI_DD": [
+    {
+      "NAME": "`💗` BLACKPINK **리사 LISA**",
+      "RARITY": "Special",
+      "GROUP": "BLACKPINK",
+      "ERA": "Square Up",
+      "IMAGE": "https://i.imgur.com/Z09FklI.gif"
+    }
+  ],
+
+"BPRO_V1": [
+    {
+      "NAME": "`⚪` BLACKPINK **로제 ROSÉ**",
+      "RARITY": "Idol",
+      "GROUP": "BLACKPINK",
+      "ERA": "Idol Edition",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212988822274099/902449676870115328/BPRO_KL.png"
+    }
+  ],
+
+"BPJN_V1": [
+    {
+      "NAME": "`⚪` BLACKPINK **제니 JENNIE**",
+      "RARITY": "Idol",
+      "GROUP": "BLACKPINK",
+      "ERA": "Idol Edition",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212988822274099/902449676773646386/BPJN_KL.png"
+    }
+  ],
+    
+"BPJI_V1": [
+    {
+      "NAME": "`⚪` BLACKPINK **지수 JISOO**",
+      "RARITY": "Idol",
+      "GROUP": "BLACKPINK",
+      "ERA": "Idol Edition",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212988822274099/902449676626837514/BPJI_KL.png"
+    }
+  ],
+
+"BPLI_V1": [
+    {
+      "NAME": "`⚪` BLACKPINK **리사 LISA**",
+      "RARITY": "Idol",
+      "GROUP": "BLACKPINK",
+      "ERA": "Idol Edition",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212988822274099/902449679130849320/BPLI_KL.png"
     }
   ]
 

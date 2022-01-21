@@ -266,8 +266,8 @@
 
 "S13": [
     {
-      "HINT": "T ␣ ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "TEARDROP",
+      "HINT": "T ␣ ␣ ␣\n ␣ ␣ ␣ ␣",
+      "NAME": "TEAR DROP",
       "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/916189008105705482/SF9Teardrop.mp4"
     }
   ],
@@ -278,6 +278,206 @@
       "HINT": "P ␣ ␣ ␣ ␣ ␣ ␣ ␣",
       "NAME": "PANORAMA",
       "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/916189008466411540/IZONEPanorama.mp4"
+    }
+  ],
+
+"S15": [
+    {
+      "HINT": "W ␣ \n ␣ ␣\n ␣ ␣",
+      "NAME": "WA DA DA",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029191375110164/Kep1erWaDaDa.mp4"
+    }
+  ],
+
+"S16": [
+    {
+      "HINT": "U ␣ - ␣ ␣",
+      "NAME": "UH-OH",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029191773577246/GIDLEUhOh.mp4"
+    }
+  ],
+
+"S17": [
+    {
+      "HINT": "␣ ␣ ␣",
+      "NAME": "ONE",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029192180408400/ASTROOne.mp4"
+    }
+  ],
+
+"S18": [
+    {
+      "HINT": "I ␣\n ␣ ␣\n ␣ ␣ ␣ ␣",
+      "NAME": "IM SO SICK",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029192675348500/APINKImSoSick.mp4"
+    }
+  ],
+
+"S19": [
+    {
+      "HINT": "R ␣ ␣ ␣ ␣ ␣",
+      "NAME": "ROLLIN",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029193224781874/BraveGirlsRollin.mp4"
+    }
+  ],
+
+"S20": [
+    {
+      "HINT": "␣ & ␣",
+      "NAME": "Q&A",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029193749078058/CherryBulletQA.mp4"
+    }
+  ],
+
+"S21": [
+    {
+      "HINT": "␣ ␣",
+      "NAME": "NO",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029194155950100/CLCNo.mp4"
+    }
+  ],
+
+"S22": [
+    {
+      "HINT": "B ␣ ␣ ␣",
+      "NAME": "BOCA",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029194726346772/DreamcatcherBoca.mp4"
+    }
+  ],
+
+"S23": [
+    {
+      "HINT": "D ␣ ␣ ␣ ␣ - ␣ ␣ ␣ ␣ ␣",
+      "NAME": "DRUNK-DAZED",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029195124801587/ENHYPENDrunkDazed.mp4"
+    }
+  ],
+
+"S24": [
+    {
+      "HINT": "T ␣ ␣ ␣\n ␣ ␣ ␣\n ␣ ␣ ␣\n ␣ ␣ ␣ ␣\n ␣ ␣ ␣ ␣ ␣",
+      "NAME": "TIME FOR THE MOON NIGHT",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029232676417576/GFRIENDTimefortheMoonNight.mp4"
+    }
+  ],
+
+"S25": [
+    {
+      "HINT": "B ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣",
+      "NAME": "BUTTERFLY",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029233011978290/LOONAButterfly.mp4"
+    }
+  ],
+
+"S26": [
+    {
+      "HINT": "K ␣ ␣ ␣\n ␣ ␣",
+      "NAME": "KICK IT",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029233334943764/NCT127KickIt.mp4"
+    }
+  ],
+
+"S27": [
+    {
+      "HINT": "O ␣\n ␣ ␣",
+      "NAME": "OH MY",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029233716592670/SeventeenOhMy.mp4"
+    }
+  ],
+
+"S28": [
+    {
+      "HINT": "Q ␣ ␣ ␣ ␣ ␣ ␣ ␣",
+      "NAME": "QUEENDOM",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029234169585714/RedVelvetQueendom.mp4"
+    }
+  ],
+
+"S29": [
+    {
+      "HINT": "S ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣",
+      "NAME": "STEREOTYPE",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029234568065025/STAYCStereotype.mp4"
+    }
+  ],
+
+"S30": [
+    {
+      "HINT": "T ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣",
+      "NAME": "THUNDEROUS",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029234991685652/StrayKidsThunderous.mp4"
+    }
+  ],
+
+"S31": [
+    {
+      "HINT": "B ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣",
+      "NAME": "BUTTERFLY",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029235440472164/WJSNButterfly.mp4"
+    }
+  ],
+
+"S32": [
+    {
+      "HINT": "T ␣ ␣ ␣ ␣ ␣\n ␣ ␣ ␣ ␣",
+      "NAME": "THRILL RIDE",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029235851493386/TheBoyzThrillRide.mp4"
+    }
+  ],
+
+"S33": [
+    {
+      "HINT": "B ␣ ␣ ␣",
+      "NAME": "BABE",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029266553823282/HyunABabe.mp4"
+    }
+  ],
+
+"S34": [
+    {
+      "HINT": "L ␣ ␣ ␣ ␣",
+      "NAME": "LILAC",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029266927095849/IULilac.mp4"
+    }
+  ],
+
+"S35": [
+    {
+      "HINT": "D ␣ ␣ ␣\n ␣ ␣ ␣ ␣",
+      "NAME": "DUMB DUMB",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029267279421460/SOMIDumbDumb.mp4"
+    }
+  ],
+
+"S36": [
+    {
+      "HINT": "C ␣ ␣ ␣ ␣",
+      "NAME": "CANDY",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029267606589450/BaekhyunCandy.mp4"
+    }
+  ],
+
+"S37": [
+    {
+      "HINT": "R ␣ ␣ ␣ ␣ ␣",
+      "NAME": "RIBBON",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029268005052426/BamBamRibbon.mp4"
+    }
+  ],
+
+"S38": [
+    {
+      "HINT": "W ␣ ␣ ␣ ␣ ␣ ␣",
+      "NAME": "WAITING",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029268369932308/WOODZWaiting.mp4"
+    }
+  ],
+
+"S39": [
+    {
+      "HINT": "␣ ␣ ␣\n &\n ␣ ␣ ␣",
+      "NAME": "CAT & DOG",
+      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029268663562260/TXTCatDog.mp4"
     }
   ],
 

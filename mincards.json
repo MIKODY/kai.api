@@ -126,7 +126,9 @@
       "RARITY": "IDOL",
       "GROUP": "BLACKPINK",
       "ERA": "Idol Edition",
-      "IMAGE": "https://cdn.discordapp.com/attachments/864091345085661204/866208602535755796/BPRO_V1.png"
+      "IMAGE": "https://cdn.discordapp.com/attachments/864091345085661204/866208602535755796/BPRO_V1.png",
+      "AUD": "V",
+      "UP": "BPLI_KL;BPLI_HY"
     }
   ],
 
@@ -136,7 +138,9 @@
       "RARITY": "IDOL",
       "GROUP": "BLACKPINK",
       "ERA": "Idol Edition",
-      "IMAGE": "https://cdn.discordapp.com/attachments/873212988822274099/873213034498228244/BPJN_V1.png"
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212988822274099/873213034498228244/BPJN_V1.png",
+      "AUD": "R",
+      "UP": "BPLI_KL;BPLI_HY"
     }
   ],
     
@@ -146,7 +150,9 @@
       "RARITY": "IDOL",
       "GROUP": "BLACKPINK",
       "ERA": "Idol Edition",
-      "IMAGE": "https://cdn.discordapp.com/attachments/815223380625326114/914090787569008661/BPJI_V1.png"
+      "IMAGE": "https://cdn.discordapp.com/attachments/815223380625326114/914090787569008661/BPJI_V1.png",
+      "AUD": "V",
+      "UP": "BPLI_KL;BPLI_HY"
     }
   ],
 
@@ -156,7 +162,267 @@
       "RARITY": "IDOL",
       "GROUP": "BLACKPINK",
       "ERA": "Idol Edition",
-      "IMAGE": "https://cdn.discordapp.com/attachments/873212988822274099/873213038445092895/BPLI_V1.png"
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212988822274099/873213038445092895/BPLI_V1.png",
+      "AUD": "D",
+      "UP": "BPLI_KL;BPLI_HY"
+    }
+  ],
+
+"AEGI_V1": [
+    {
+      "NAME": "`⚪` aespa **지젤 GISELLE**",
+      "RARITY": "IDOL",
+      "GROUP": "aespa",
+      "ERA": "Idol Edition",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212625171906600/873212717161394206/AEGI_V1.png",
+      "AUD": "R",
+      "UP": "AEGI_NL;AEGI_SV"
+    }
+  ],
+
+"AEKA_V1": [
+    {
+      "NAME": "`⚪` aespa **카리나 KARINA**",
+      "RARITY": "IDOL",
+      "GROUP": "aespa",
+      "ERA": "Idol Edition",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212625171906600/873212685641211994/AEKA_V1.png",
+      "AUD": "D",
+      "UP": "AEKA_NL;AEKA_SV"
+    }
+  ],
+    
+"AENI_V1": [
+    {
+      "NAME": "`⚪` aespa **닝닝 NINGNING**",
+      "RARITY": "IDOL",
+      "GROUP": "aespa",
+      "ERA": "Idol Edition",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212625171906600/892384743998492691/AENI_V1.png",
+      "AUD": "V",
+      "UP": "AENI_NL;AENI_SV"
+    }
+  ],
+
+"AEWT_V1": [
+    {
+      "NAME": "`⚪` aespa **윈터 WINTER**",
+      "RARITY": "IDOL",
+      "GROUP": "aespa",
+      "ERA": "Idol Edition",
+      "IMAGE": "https://cdn.discordapp.com/attachments/864091345085661204/866208590159282186/AEWT_V1.png",
+      "AUD": "D",
+      "UP": "AEWT_NL;AEWT_SV"
+    }
+  ],
+
+"AEGI_NL": [
+    {
+      "NAME": "`⚫` aespa **지젤 GISELLE**",
+      "RARITY": "THEME",
+      "GROUP": "aespa",
+      "ERA": "Next Level",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212625171906600/877131412678017044/AEGI_NL.png"
+    }
+  ],
+
+"AEKA_NL": [
+    {
+      "NAME": "`⚫` aespa **카리나 KARINA**",
+      "RARITY": "THEME",
+      "GROUP": "aespa",
+      "ERA": "Next Level",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212625171906600/877131409146392616/AEKA_NL.png"
+    }
+  ],
+    
+"AENI_NL": [
+    {
+      "NAME": "`⚫` aespa **닝닝 NINGNING**",
+      "RARITY": "THEME",
+      "GROUP": "aespa",
+      "ERA": "Next Level",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212625171906600/877131410907996190/AENN_NL.png"
+    }
+  ],
+
+"AEWT_NL": [
+    {
+      "NAME": "`⚫` aespa **윈터 WINTER**",
+      "RARITY": "THEME",
+      "GROUP": "aespa",
+      "ERA": "Next Level",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212625171906600/877131412120170576/AEWT_NL.png"
+    }
+  ],
+
+"AEGI_SV": [
+    {
+      "NAME": "`⚫` aespa **지젤 GISELLE**",
+      "RARITY": "THEME",
+      "GROUP": "aespa",
+      "ERA": "Savage",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212625171906600/895178254221213706/AEGI_SV.png"
+    }
+  ],
+
+"AEKA_SV": [
+    {
+      "NAME": "`⚫` aespa **카리나 KARINA**",
+      "RARITY": "THEME",
+      "GROUP": "aespa",
+      "ERA": "Savage",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212625171906600/895178255710175292/AEKA_SV.png"
+    }
+  ],
+    
+"AENI_SV": [
+    {
+      "NAME": "`⚫` aespa **닝닝 NINGNING**",
+      "RARITY": "THEME",
+      "GROUP": "aespa",
+      "ERA": "Savage",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212625171906600/895178261041152000/AENI_SV.png"
+    }
+  ],
+
+"AEWT_SV": [
+    {
+      "NAME": "`⚫` aespa **윈터 WINTER**",
+      "RARITY": "THEME",
+      "GROUP": "aespa",
+      "ERA": "Savage",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212625171906600/895178260634296320/AEWT_SV.png"
+    }
+  ],
+
+"AEGI_FV": [
+    {
+      "NAME": "`⚫` aespa **지젤 GISELLE**",
+      "RARITY": "THEME",
+      "GROUP": "aespa",
+      "ERA": "Forever",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212625171906600/923822553393397780/AEGI_FV.png"
+    }
+  ],
+
+"AEKA_FV": [
+    {
+      "NAME": "`⚫` aespa **카리나 KARINA**",
+      "RARITY": "THEME",
+      "GROUP": "aespa",
+      "ERA": "Forever",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212625171906600/923822553737355304/AEKA_FV.png"
+    }
+  ],
+    
+"AENI_FV": [
+    {
+      "NAME": "`⚫` aespa **닝닝 NINGNING**",
+      "RARITY": "THEME",
+      "GROUP": "aespa",
+      "ERA": "Forever",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212625171906600/923822554307788840/AENI_FV.png"
+    }
+  ],
+
+"AEWT_FV": [
+    {
+      "NAME": "`⚫` aespa **윈터 WINTER**",
+      "RARITY": "THEME",
+      "GROUP": "aespa",
+      "ERA": "Forever",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212625171906600/923822554668494898/AEWT_FV.png"
+    }
+  ],
+
+"AEGI_LX": [
+    {
+      "NAME": "`🟣` aespa **지젤 GISELLE**",
+      "RARITY": "LUX",
+      "GROUP": "aespa",
+      "ERA": "Lux Edition",
+      "IMAGE": "https://cdn.discordapp.com/attachments/874262990747222057/900743281758076988/AEGI_LX.png"
+    }
+  ],
+
+"AEKA_LX": [
+    {
+      "NAME": "`🟣` aespa **카리나 KARINA**",
+      "RARITY": "LUX",
+      "GROUP": "aespa",
+      "ERA": "Lux Edition",
+      "IMAGE": "https://cdn.discordapp.com/attachments/874262990747222057/900743283012149308/AEKA_LX.png"
+    }
+  ],
+    
+"AENI_LX": [
+    {
+      "NAME": "`🟣` aespa **닝닝 NINGNING**",
+      "RARITY": "LUX",
+      "GROUP": "aespa",
+      "ERA": "Lux Edition",
+      "IMAGE": "https://cdn.discordapp.com/attachments/874262990747222057/900743284861849650/AENI_LX.png"
+    }
+  ],
+
+"AEWT_LX": [
+    {
+      "NAME": "`🟣` aespa **윈터 WINTER**",
+      "RARITY": "LUX",
+      "GROUP": "aespa",
+      "ERA": "Lux Edition",
+      "IMAGE": "https://cdn.discordapp.com/attachments/874262990747222057/900743286657011732/AEWT_LX.png"
+    }
+  ],
+
+"AEGI_22SG": [
+    {
+      "NAME": "`🗓️` aespa **지젤 GISELLE**",
+      "RARITY": "EVENT",
+      "GROUP": "aespa",
+      "ERA": "2022 Season's Greetings",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212625171906600/930805067894906950/AEGI_22SG.png"
+    }
+  ],
+
+"AEKA_22SG": [
+    {
+      "NAME": "`🗓️` aespa **카리나 KARINA**",
+      "RARITY": "EVENT",
+      "GROUP": "aespa",
+      "ERA": "2022 Season's Greetings",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212625171906600/930805068171706428/AEKA_22SG.png"
+    }
+  ],
+    
+"AENI_22SG": [
+    {
+      "NAME": "`🗓️` aespa **닝닝 NINGNING**",
+      "RARITY": "EVENT",
+      "GROUP": "aespa",
+      "ERA": "2022 Season's Greetings",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212625171906600/930805068473724969/AENI_22SG.png"
+    }
+  ],
+
+"AEWT_22SG": [
+    {
+      "NAME": "`🗓️` aespa **윈터 WINTER**",
+      "RARITY": "EVENT",
+      "GROUP": "aespa",
+      "ERA": "2022 Season's Greetings",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873212625171906600/930805068784087090/AEWT_22SG.png"
+    }
+  ],
+
+"AEKA_GD": [
+    {
+      "NAME": "`🟡` aespa **카리나 KARINA**",
+      "RARITY": "GOLD",
+      "GROUP": "aespa",
+      "ERA": "Gold Edition",
+      "IMAGE": "https://cdn.discordapp.com/attachments/874210735956303893/874919863074820116/AEKA_GD.png"
     }
   ]
 

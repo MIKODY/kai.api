@@ -782,7 +782,7 @@
 
 "ACBK_V1": [
     {
-      "NAME": "`⚪`  A\.C\.E **병관 BYEONGKWAN**",
+      "NAME": "`⚪`  A.C.E **병관 BYEONGKWAN**",
       "RARITY": "IDOL",
       "GROUP": "ACE",
       "ERA": "Idol Edition",
@@ -792,7 +792,7 @@
     
 "ACCH_V1": [
     {
-      "NAME": "`⚪` A\.C\.E **찬 CHAN**",
+      "NAME": "`⚪` A.C.E **찬 CHAN**",
       "RARITY": "IDOL",
       "GROUP": "ACE",
       "ERA": "Idol Edition",
@@ -802,7 +802,7 @@
 
 "ACDO_V1": [
     {
-      "NAME": "`⚪` A\.C\.E **동훈 DONGHUN**",
+      "NAME": "`⚪` A.C.E **동훈 DONGHUN**",
       "RARITY": "IDOL",
       "GROUP": "ACE",
       "ERA": "Idol Edition",
@@ -812,7 +812,7 @@
 
 "ACJU_V1": [
     {
-      "NAME": "`⚪` A\.C\.E **준 JUN**",
+      "NAME": "`⚪` A.C.E **준 JUN**",
       "RARITY": "IDOL",
       "GROUP": "ACE",
       "ERA": "Idol Edition",
@@ -822,7 +822,7 @@
 
 "ACWO_V1": [
     {
-      "NAME": "`⚪` A\.C\.E **와우 WOW**",
+      "NAME": "`⚪` A.C.E **와우 WOW**",
       "RARITY": "IDOL",
       "GROUP": "ACE",
       "ERA": "Idol Edition",
@@ -832,7 +832,7 @@
 
 "ACBK_PH": [
     {
-      "NAME": "`⚫`  A\.C\.E **병관 BYEONGKWAN**",
+      "NAME": "`⚫`  A.C.E **병관 BYEONGKWAN**",
       "RARITY": "THEME",
       "GROUP": "ACE",
       "ERA": "HJZM : The Butterfly Phantasy",
@@ -842,7 +842,7 @@
     
 "ACCH_PH": [
     {
-      "NAME": "`⚫` A\.C\.E **찬 CHAN**",
+      "NAME": "`⚫` A.C.E **찬 CHAN**",
       "RARITY": "THEME",
       "GROUP": "ACE",
       "ERA": "HJZM : The Butterfly Phantasy",
@@ -852,7 +852,7 @@
 
 "ACDO_PH": [
     {
-      "NAME": "`⚫` A\.C\.E **동훈 DONGHUN**",
+      "NAME": "`⚫` A.C.E **동훈 DONGHUN**",
       "RARITY": "THEME",
       "GROUP": "ACE",
       "ERA": "HJZM : The Butterfly Phantasy",
@@ -862,7 +862,7 @@
 
 "ACJU_PH": [
     {
-      "NAME": "`⚫` A\.C\.E **준 JUN**",
+      "NAME": "`⚫` A.C.E **준 JUN**",
       "RARITY": "THEME",
       "GROUP": "ACE",
       "ERA": "HJZM : The Butterfly Phantasy",
@@ -872,7 +872,7 @@
 
 "ACWO_PH": [
     {
-      "NAME": "`⚫` A\.C\.E **와우 WOW**",
+      "NAME": "`⚫` A.C.E **와우 WOW**",
       "RARITY": "THEME",
       "GROUP": "ACE",
       "ERA": "HJZM : The Butterfly Phantasy",
@@ -882,7 +882,7 @@
 
 "ACBK_MS": [
     {
-      "NAME": "`🔱`  A\.C\.E **병관 BYEONGKWAN**",
+      "NAME": "`🔱`  A.C.E **병관 BYEONGKWAN**",
       "RARITY": "SPECIAL",
       "GROUP": "ACE",
       "ERA": "UNDER COVER : THE MAD SQUAD",
@@ -892,7 +892,7 @@
     
 "ACCH_MS": [
     {
-      "NAME": "`🔱` A\.C\.E **찬 CHAN**",
+      "NAME": "`🔱` A.C.E **찬 CHAN**",
       "RARITY": "SPECIAL",
       "GROUP": "ACE",
       "ERA": "UNDER COVER : THE MAD SQUAD",
@@ -902,7 +902,7 @@
 
 "ACDO_MS": [
     {
-      "NAME": "`🔱` A\.C\.E **동훈 DONGHUN**",
+      "NAME": "`🔱` A.C.E **동훈 DONGHUN**",
       "RARITY": "SPECIAL",
       "GROUP": "ACE",
       "ERA": "UNDER COVER : THE MAD SQUAD",
@@ -912,7 +912,7 @@
 
 "ACJU_MS": [
     {
-      "NAME": "`🔱` A\.C\.E **준 JUN**",
+      "NAME": "`🔱` A.C.E **준 JUN**",
       "RARITY": "SPECIAL",
       "GROUP": "ACE",
       "ERA": "UNDER COVER : THE MAD SQUAD",
@@ -922,7 +922,7 @@
 
 "ACWO_MS": [
     {
-      "NAME": "`🔱` A\.C\.E **와우 WOW**",
+      "NAME": "`🔱` A.C.E **와우 WOW**",
       "RARITY": "SPECIAL",
       "GROUP": "ACE",
       "ERA": "UNDER COVER : THE MAD SQUAD",

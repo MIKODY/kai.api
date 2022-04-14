@@ -10448,7 +10448,7 @@
 
 "OHHY_BG": [
     {
-      "NAME": "`"⚫` Oh My Girl **효정 HYOJUNG**",
+      "NAME": "`⚫` Oh My Girl **효정 HYOJUNG**",
       "RARITY": "THEME",
       "GROUP": "OhMyGirl",
       "ERA": "Bungee (Fall in Love)",
@@ -10458,7 +10458,7 @@
 
 "OHMI_BG": [
     {
-      "NAME": "`"⚫` Oh My Girl **미미 MIMI**",
+      "NAME": "`⚫` Oh My Girl **미미 MIMI**",
       "RARITY": "THEME",
       "GROUP": "OhMyGirl",
       "ERA": "Bungee (Fall in Love)",
@@ -10468,7 +10468,7 @@
 
 "OHYO_BG": [
     {
-      "NAME": "`"⚫` Oh My Girl **유아 YOOA**",
+      "NAME": "`⚫` Oh My Girl **유아 YOOA**",
       "RARITY": "THEME",
       "GROUP": "OhMyGirl",
       "ERA": "Bungee (Fall in Love)",
@@ -10478,7 +10478,7 @@
 
 "OHSE_BG": [
     {
-      "NAME": "`"⚫` Oh My Girl **승희 SEUNGHEE**",
+      "NAME": "`⚫` Oh My Girl **승희 SEUNGHEE**",
       "RARITY": "THEME",
       "GROUP": "OhMyGirl",
       "ERA": "Bungee (Fall in Love)",
@@ -10488,7 +10488,7 @@
 
 "OHJI_BG": [
     {
-      "NAME": "`"⚫` Oh My Girl **지호 JIHO**",
+      "NAME": "`⚫` Oh My Girl **지호 JIHO**",
       "RARITY": "THEME",
       "GROUP": "OhMyGirl",
       "ERA": "Bungee (Fall in Love)",
@@ -10498,7 +10498,7 @@
 
 "OHBI_BG": [
     {
-      "NAME": "`"⚫` Oh My Girl **비니 BINNIE**",
+      "NAME": "`⚫` Oh My Girl **비니 BINNIE**",
       "RARITY": "THEME",
       "GROUP": "OhMyGirl",
       "ERA": "Bungee (Fall in Love)",
@@ -10508,7 +10508,7 @@
 
 "OHAR_BG": [
     {
-      "NAME": "`"⚫` Oh My Girl **아린 ARIN**",
+      "NAME": "`⚫` Oh My Girl **아린 ARIN**",
       "RARITY": "THEME",
       "GROUP": "OhMyGirl",
       "ERA": "Bungee (Fall in Love)",
@@ -10518,7 +10518,7 @@
 
 "OHHY_NS": [
     {
-      "NAME": "`"⚫` Oh My Girl **효정 HYOJUNG**",
+      "NAME": "`⚫` Oh My Girl **효정 HYOJUNG**",
       "RARITY": "THEME",
       "GROUP": "OhMyGirl",
       "ERA": "Nonstop",
@@ -10528,7 +10528,7 @@
 
 "OHMI_NS": [
     {
-      "NAME": "`"⚫` Oh My Girl **미미 MIMI**",
+      "NAME": "`⚫` Oh My Girl **미미 MIMI**",
       "RARITY": "THEME",
       "GROUP": "OhMyGirl",
       "ERA": "Nonstop",
@@ -10538,7 +10538,7 @@
 
 "OHYO_NS": [
     {
-      "NAME": "`"⚫` Oh My Girl **유아 YOOA**",
+      "NAME": "`⚫` Oh My Girl **유아 YOOA**",
       "RARITY": "THEME",
       "GROUP": "OhMyGirl",
       "ERA": "Nonstop",
@@ -10548,7 +10548,7 @@
 
 "OHSE_NS": [
     {
-      "NAME": "`"⚫` Oh My Girl **승희 SEUNGHEE**",
+      "NAME": "`⚫` Oh My Girl **승희 SEUNGHEE**",
       "RARITY": "THEME",
       "GROUP": "OhMyGirl",
       "ERA": "Nonstop",
@@ -10558,7 +10558,7 @@
 
 "OHJI_NS": [
     {
-      "NAME": "`"⚫` Oh My Girl **지호 JIHO**",
+      "NAME": "`⚫` Oh My Girl **지호 JIHO**",
       "RARITY": "THEME",
       "GROUP": "OhMyGirl",
       "ERA": "Nonstop",
@@ -10568,7 +10568,7 @@
 
 "OHBI_NS": [
     {
-      "NAME": "`"⚫` Oh My Girl **비니 BINNIE**",
+      "NAME": "`⚫` Oh My Girl **비니 BINNIE**",
       "RARITY": "THEME",
       "GROUP": "OhMyGirl",
       "ERA": "Nonstop",
@@ -10578,7 +10578,7 @@
 
 "OHAR_NS": [
     {
-      "NAME": "`"⚫` Oh My Girl **아린 ARIN**",
+      "NAME": "`⚫` Oh My Girl **아린 ARIN**",
       "RARITY": "THEME",
       "GROUP": "OhMyGirl",
       "ERA": "Nonstop",
@@ -10588,7 +10588,7 @@
 
 "OHHY_22SG": [
     {
-      "NAME": "`"🗓️` Oh My Girl **효정 HYOJUNG**",
+      "NAME": "`🗓️` Oh My Girl **효정 HYOJUNG**",
       "RARITY": "EVENT",
       "GROUP": "OhMyGirl",
       "ERA": "2022 Season's Greetings",
@@ -10598,7 +10598,7 @@
 
 "OHMI_22SG": [
     {
-      "NAME": "`"🗓️` Oh My Girl **미미 MIMI**",
+      "NAME": "`🗓️` Oh My Girl **미미 MIMI**",
       "RARITY": "EVENT",
       "GROUP": "OhMyGirl",
       "ERA": "2022 Season's Greetings",
@@ -10608,7 +10608,7 @@
 
 "OHYO_22SG": [
     {
-      "NAME": "`"🗓️` Oh My Girl **유아 YOOA**",
+      "NAME": "`🗓️` Oh My Girl **유아 YOOA**",
       "RARITY": "EVENT",
       "GROUP": "OhMyGirl",
       "ERA": "2022 Season's Greetings",
@@ -10618,7 +10618,7 @@
 
 "OHSE_22SG": [
     {
-      "NAME": "`"🗓️` Oh My Girl **승희 SEUNGHEE**",
+      "NAME": "`🗓️` Oh My Girl **승희 SEUNGHEE**",
       "RARITY": "EVENT",
       "GROUP": "OhMyGirl",
       "ERA": "2022 Season's Greetings",
@@ -10628,7 +10628,7 @@
 
 "OHJI_22SG": [
     {
-      "NAME": "`"🗓️` Oh My Girl **지호 JIHO**",
+      "NAME": "`🗓️` Oh My Girl **지호 JIHO**",
       "RARITY": "EVENT",
       "GROUP": "OhMyGirl",
       "ERA": "2022 Season's Greetings",
@@ -10638,7 +10638,7 @@
 
 "OHBI_22SG": [
     {
-      "NAME": "`"🗓️` Oh My Girl **비니 BINNIE**",
+      "NAME": "`🗓️` Oh My Girl **비니 BINNIE**",
       "RARITY": "EVENT",
       "GROUP": "OhMyGirl",
       "ERA": "2022 Season's Greetings",
@@ -10648,7 +10648,7 @@
 
 "OHAR_22SG": [
     {
-      "NAME": "`"🗓️` Oh My Girl **아린 ARIN**",
+      "NAME": "`🗓️` Oh My Girl **아린 ARIN**",
       "RARITY": "EVENT",
       "GROUP": "OhMyGirl",
       "ERA": "2022 Season's Greetings",
@@ -10658,7 +10658,7 @@
 
 "ONRV_22SG": [
     {
-      "NAME": "`"🗓️` ONEUS **레이븐 RAVN**",
+      "NAME": "`🗓️` ONEUS **레이븐 RAVN**",
       "RARITY": "EVENT",
       "GROUP": "ONEUS",
       "ERA": "2022 Season's Greetings",
@@ -10668,7 +10668,7 @@
 
 "ONSE_22SG": [
     {
-      "NAME": "`"🗓️` ONEUS **서호 SEOHO**",
+      "NAME": "`🗓️` ONEUS **서호 SEOHO**",
       "RARITY": "EVENT",
       "GROUP": "ONEUS",
       "ERA": "2022 Season's Greetings",
@@ -10678,7 +10678,7 @@
 
 "ONLE_22SG": [
     {
-      "NAME": "`"🗓️` ONEUS **이도 LEEDO**",
+      "NAME": "`🗓️` ONEUS **이도 LEEDO**",
       "RARITY": "EVENT",
       "GROUP": "ONEUS",
       "ERA": "2022 Season's Greetings",
@@ -10688,7 +10688,7 @@
 
 "ONKE_22SG": [
     {
-      "NAME": "`"🗓️` ONEUS **건희 KEONHEE**",
+      "NAME": "`🗓️` ONEUS **건희 KEONHEE**",
       "RARITY": "EVENT",
       "GROUP": "ONEUS",
       "ERA": "2022 Season's Greetings",
@@ -10698,7 +10698,7 @@
 
 "ONHW_22SG": [
     {
-      "NAME": "`"🗓️` ONEUS **환웅 HWANWOONG**",
+      "NAME": "`🗓️` ONEUS **환웅 HWANWOONG**",
       "RARITY": "EVENT",
       "GROUP": "ONEUS",
       "ERA": "2022 Season's Greetings",
@@ -10708,7 +10708,7 @@
 
 "ONXI_22SG": [
     {
-      "NAME": "`"🗓️` ONEUS **시온 XION**",
+      "NAME": "`🗓️` ONEUS **시온 XION**",
       "RARITY": "EVENT",
       "GROUP": "ONEUS",
       "ERA": "2022 Season's Greetings",
@@ -10718,7 +10718,7 @@
 
 "ONRV_DV": [
     {
-      "NAME": "`"⚫` ONEUS **레이븐 RAVN**",
+      "NAME": "`⚫` ONEUS **레이븐 RAVN**",
       "RARITY": "THEME",
       "GROUP": "ONEUS",
       "ERA": "Devil",
@@ -10728,7 +10728,7 @@
 
 "ONSE_DV": [
     {
-      "NAME": "`"⚫` ONEUS **서호 SEOHO**",
+      "NAME": "`⚫` ONEUS **서호 SEOHO**",
       "RARITY": "THEME",
       "GROUP": "ONEUS",
       "ERA": "Devil",
@@ -10738,7 +10738,7 @@
 
 "ONLE_DV": [
     {
-      "NAME": "`"⚫` ONEUS **이도 LEEDO**",
+      "NAME": "`⚫` ONEUS **이도 LEEDO**",
       "RARITY": "THEME",
       "GROUP": "ONEUS",
       "ERA": "Devil",
@@ -10748,7 +10748,7 @@
 
 "ONKE_DV": [
     {
-      "NAME": "`"⚫` ONEUS **건희 KEONHEE**",
+      "NAME": "`⚫` ONEUS **건희 KEONHEE**",
       "RARITY": "THEME",
       "GROUP": "ONEUS",
       "ERA": "Devil",
@@ -10758,7 +10758,7 @@
 
 "ONHW_DV": [
     {
-      "NAME": "`"⚫` ONEUS **환웅 HWANWOONG**",
+      "NAME": "`⚫` ONEUS **환웅 HWANWOONG**",
       "RARITY": "THEME",
       "GROUP": "ONEUS",
       "ERA": "Devil",
@@ -10768,7 +10768,7 @@
 
 "ONXI_DV": [
     {
-      "NAME": "`"⚫` ONEUS **시온 XION**",
+      "NAME": "`⚫` ONEUS **시온 XION**",
       "RARITY": "THEME",
       "GROUP": "ONEUS",
       "ERA": "Devil",
@@ -10778,7 +10778,7 @@
 
 "ONRV_V1": [
     {
-      "NAME": "`"⚪` ONEUS **레이븐 RAVN**",
+      "NAME": "`⚪` ONEUS **레이븐 RAVN**",
       "RARITY": "IDOL",
       "GROUP": "ONEUS",
       "ERA": "Idol Edition",
@@ -10788,7 +10788,7 @@
 
 "ONSE_V1": [
     {
-      "NAME": "`"⚪` ONEUS **서호 SEOHO**",
+      "NAME": "`⚪` ONEUS **서호 SEOHO**",
       "RARITY": "IDOL",
       "GROUP": "ONEUS",
       "ERA": "Idol Edition",
@@ -10798,7 +10798,7 @@
 
 "ONLE_V1": [
     {
-      "NAME": "`"⚪` ONEUS **이도 LEEDO**",
+      "NAME": "`⚪` ONEUS **이도 LEEDO**",
       "RARITY": "IDOL",
       "GROUP": "ONEUS",
       "ERA": "Idol Edition",
@@ -10808,7 +10808,7 @@
 
 "ONKE_V1": [
     {
-      "NAME": "`"⚪` ONEUS **건희 KEONHEE**",
+      "NAME": "`⚪` ONEUS **건희 KEONHEE**",
       "RARITY": "IDOL",
       "GROUP": "ONEUS",
       "ERA": "Idol Edition",
@@ -10818,7 +10818,7 @@
 
 "ONHW_V1": [
     {
-      "NAME": "`"⚪` ONEUS **환웅 HWANWOONG**",
+      "NAME": "`⚪` ONEUS **환웅 HWANWOONG**",
       "RARITY": "IDOL",
       "GROUP": "ONEUS",
       "ERA": "Idol Edition",
@@ -10828,7 +10828,7 @@
 
 "ONXI_V1": [
     {
-      "NAME": "`"⚪` ONEUS **시온 XION**",
+      "NAME": "`⚪` ONEUS **시온 XION**",
       "RARITY": "IDOL",
       "GROUP": "ONEUS",
       "ERA": "Idol Edition",
@@ -10838,7 +10838,7 @@
 
 "OFHY_V1": [
     {
-      "NAME": "`"⚪` ONF **효진 HYOJIN**",
+      "NAME": "`⚪` ONF **효진 HYOJIN**",
       "RARITY": "IDOL",
       "GROUP": "ONF",
       "ERA": "Idol Edition",
@@ -10848,7 +10848,7 @@
 
 "OFJS_V1": [
     {
-      "NAME": "`"⚪` ONF **제이어스 J-US**",
+      "NAME": "`⚪` ONF **제이어스 J-US**",
       "RARITY": "IDOL",
       "GROUP": "ONF",
       "ERA": "Idol Edition",
@@ -10858,7 +10858,7 @@
 
 "OFET_V1": [
     {
-      "NAME": "`"⚪` ONF **이션 E-TION**",
+      "NAME": "`⚪` ONF **이션 E-TION**",
       "RARITY": "IDOL",
       "GROUP": "ONF",
       "ERA": "Idol Edition",
@@ -10868,7 +10868,7 @@
 
 "OFWY_V1": [
     {
-      "NAME": "`"⚪` ONF **와이엇 WYATT**",
+      "NAME": "`⚪` ONF **와이엇 WYATT**",
       "RARITY": "IDOL",
       "GROUP": "ONF",
       "ERA": "Idol Edition",
@@ -10878,7 +10878,7 @@
 
 "OFMK_V1": [
     {
-      "NAME": "`"⚪` ONF **엠케이 MK**",
+      "NAME": "`⚪` ONF **엠케이 MK**",
       "RARITY": "IDOL",
       "GROUP": "ONF",
       "ERA": "Idol Edition",
@@ -10888,7 +10888,7 @@
 
 "OFU_V1": [
     {
-      "NAME": "`"⚪` ONF **유 U**",
+      "NAME": "`⚪` ONF **유 U**",
       "RARITY": "IDOL",
       "GROUP": "ONF",
       "ERA": "Idol Edition",
@@ -10898,7 +10898,7 @@
 
 "OFHY_PO": [
     {
-      "NAME": "`"⚫` ONF **효진 HYOJIN**",
+      "NAME": "`⚫` ONF **효진 HYOJIN**",
       "RARITY": "THEME",
       "GROUP": "ONF",
       "ERA": "Popping",
@@ -10908,7 +10908,7 @@
 
 "OFJS_PO": [
     {
-      "NAME": "`"⚫` ONF **제이어스 J-US**",
+      "NAME": "`⚫` ONF **제이어스 J-US**",
       "RARITY": "THEME",
       "GROUP": "ONF",
       "ERA": "Popping",
@@ -10918,7 +10918,7 @@
 
 "OFET_PO": [
     {
-      "NAME": "`"⚫` ONF **이션 E-TION**",
+      "NAME": "`⚫` ONF **이션 E-TION**",
       "RARITY": "THEME",
       "GROUP": "ONF",
       "ERA": "Popping",
@@ -10928,7 +10928,7 @@
 
 "OFWY_PO": [
     {
-      "NAME": "`"⚫` ONF **와이엇 WYATT**",
+      "NAME": "`⚫` ONF **와이엇 WYATT**",
       "RARITY": "THEME",
       "GROUP": "ONF",
       "ERA": "Popping",
@@ -10938,7 +10938,7 @@
 
 "OFMK_PO": [
     {
-      "NAME": "`"⚫` ONF **엠케이 MK**",
+      "NAME": "`⚫` ONF **엠케이 MK**",
       "RARITY": "THEME",
       "GROUP": "ONF",
       "ERA": "Popping",
@@ -10948,7 +10948,7 @@
 
 "OFU_PO": [
     {
-      "NAME": "`"⚫` ONF **유 U**",
+      "NAME": "`⚫` ONF **유 U**",
       "RARITY": "THEME",
       "GROUP": "ONF",
       "ERA": "Popping",
@@ -10958,7 +10958,7 @@
 
 "OOKB_I1": [
     {
-      "NAME": "`"⚫` OnlyOneOf **규빈 KB**",
+      "NAME": "`⚫` OnlyOneOf **규빈 KB**",
       "RARITY": "THEME",
       "GROUP": "OnlyOneOf",
       "ERA": "Instinct Pt. 1",
@@ -10968,7 +10968,7 @@
 
 "OOLV_I1": [
     {
-      "NAME": "`"⚫` OnlyOneOf **러브 LOVE**",
+      "NAME": "`⚫` OnlyOneOf **러브 LOVE**",
       "RARITY": "THEME",
       "GROUP": "OnlyOneOf",
       "ERA": "Instinct Pt. 1",
@@ -10978,7 +10978,7 @@
 
 "OORI_I1": [
     {
-      "NAME": "`"⚫` OnlyOneOf **리에 RIE**",
+      "NAME": "`⚫` OnlyOneOf **리에 RIE**",
       "RARITY": "THEME",
       "GROUP": "OnlyOneOf",
       "ERA": "Instinct Pt. 1",
@@ -10988,7 +10988,7 @@
 
 "OOYJ_I1": [
     {
-      "NAME": "`"⚫` OnlyOneOf **유정 YOOJUNG**",
+      "NAME": "`⚫` OnlyOneOf **유정 YOOJUNG**",
       "RARITY": "THEME",
       "GROUP": "OnlyOneOf",
       "ERA": "Instinct Pt. 1",
@@ -10998,7 +10998,7 @@
 
 "OOJU_I1": [
     {
-      "NAME": "`"⚫` OnlyOneOf **준지 JUNJI**",
+      "NAME": "`⚫` OnlyOneOf **준지 JUNJI**",
       "RARITY": "THEME",
       "GROUP": "OnlyOneOf",
       "ERA": "Instinct Pt. 1",
@@ -11008,7 +11008,7 @@
 
 "OOML_I1": [
     {
-      "NAME": "`"⚫` OnlyOneOf **밀 MILL**",
+      "NAME": "`⚫` OnlyOneOf **밀 MILL**",
       "RARITY": "THEME",
       "GROUP": "OnlyOneOf",
       "ERA": "Instinct Pt. 1",
@@ -11018,7 +11018,7 @@
 
 "OONI_I1": [
     {
-      "NAME": "`"⚫` OnlyOneOf **나인 NINE**",
+      "NAME": "`⚫` OnlyOneOf **나인 NINE**",
       "RARITY": "THEME",
       "GROUP": "OnlyOneOf",
       "ERA": "Instinct Pt. 1",
@@ -11028,7 +11028,7 @@
 
 "OOKB_LG": [
     {
-      "NAME": "`"⚫` OnlyOneOf **규빈 KB**",
+      "NAME": "`⚫` OnlyOneOf **규빈 KB**",
       "RARITY": "THEME",
       "GROUP": "OnlyOneOf",
       "ERA": "line sun goodness",
@@ -11038,7 +11038,7 @@
 
 "OOLV_LG": [
     {
-      "NAME": "`"⚫` OnlyOneOf **러브 LOVE**",
+      "NAME": "`⚫` OnlyOneOf **러브 LOVE**",
       "RARITY": "THEME",
       "GROUP": "OnlyOneOf",
       "ERA": "line sun goodness",
@@ -11048,7 +11048,7 @@
 
 "OORI_LG": [
     {
-      "NAME": "`"⚫` OnlyOneOf **리에 RIE**",
+      "NAME": "`⚫` OnlyOneOf **리에 RIE**",
       "RARITY": "THEME",
       "GROUP": "OnlyOneOf",
       "ERA": "line sun goodness",
@@ -11058,7 +11058,7 @@
 
 "OOYJ_LG": [
     {
-      "NAME": "`"⚫` OnlyOneOf **유정 YOOJUNG**",
+      "NAME": "`⚫` OnlyOneOf **유정 YOOJUNG**",
       "RARITY": "THEME",
       "GROUP": "OnlyOneOf",
       "ERA": "line sun goodness",
@@ -11068,7 +11068,7 @@
 
 "OOJU_LG": [
     {
-      "NAME": "`"⚫` OnlyOneOf **준지 JUNJI**",
+      "NAME": "`⚫` OnlyOneOf **준지 JUNJI**",
       "RARITY": "THEME",
       "GROUP": "OnlyOneOf",
       "ERA": "line sun goodness",
@@ -11078,7 +11078,7 @@
 
 "OOML_LG": [
     {
-      "NAME": "`"⚫` OnlyOneOf **밀 MILL**",
+      "NAME": "`⚫` OnlyOneOf **밀 MILL**",
       "RARITY": "THEME",
       "GROUP": "OnlyOneOf",
       "ERA": "line sun goodness",
@@ -11088,7 +11088,7 @@
 
 "OONI_LG": [
     {
-      "NAME": "`"⚫` OnlyOneOf **나인 NINE**",
+      "NAME": "`⚫` OnlyOneOf **나인 NINE**",
       "RARITY": "THEME",
       "GROUP": "OnlyOneOf",
       "ERA": "line sun goodness",
@@ -11098,7 +11098,7 @@
 
 "OOKB_V1": [
     {
-      "NAME": "`"⚪` OnlyOneOf **규빈 KB**",
+      "NAME": "`⚪` OnlyOneOf **규빈 KB**",
       "RARITY": "IDOL",
       "GROUP": "OnlyOneOf",
       "ERA": "Idol Edition",
@@ -11108,7 +11108,7 @@
 
 "OOLV_V1": [
     {
-      "NAME": "`"⚪` OnlyOneOf **러브 LOVE**",
+      "NAME": "`⚪` OnlyOneOf **러브 LOVE**",
       "RARITY": "IDOL",
       "GROUP": "OnlyOneOf",
       "ERA": "Idol Edition",
@@ -11118,7 +11118,7 @@
 
 "OORI_V1": [
     {
-      "NAME": "`"⚪` OnlyOneOf **리에 RIE**",
+      "NAME": "`⚪` OnlyOneOf **리에 RIE**",
       "RARITY": "IDOL",
       "GROUP": "OnlyOneOf",
       "ERA": "Idol Edition",
@@ -11128,7 +11128,7 @@
 
 "OOYJ_V1": [
     {
-      "NAME": "`"⚪` OnlyOneOf **유정 YOOJUNG**",
+      "NAME": "`⚪` OnlyOneOf **유정 YOOJUNG**",
       "RARITY": "IDOL",
       "GROUP": "OnlyOneOf",
       "ERA": "Idol Edition",
@@ -11138,7 +11138,7 @@
 
 "OOJU_V1": [
     {
-      "NAME": "`"⚪` OnlyOneOf **준지 JUNJI**",
+      "NAME": "`⚪` OnlyOneOf **준지 JUNJI**",
       "RARITY": "IDOL",
       "GROUP": "OnlyOneOf",
       "ERA": "Idol Edition",
@@ -11148,7 +11148,7 @@
 
 "OOML_V1": [
     {
-      "NAME": "`"⚪` OnlyOneOf **밀 MILL**",
+      "NAME": "`⚪` OnlyOneOf **밀 MILL**",
       "RARITY": "IDOL",
       "GROUP": "OnlyOneOf",
       "ERA": "Idol Edition",
@@ -11158,7 +11158,7 @@
 
 "OONI_V1": [
     {
-      "NAME": "`"⚪` OnlyOneOf **나인 NINE**",
+      "NAME": "`⚪` OnlyOneOf **나인 NINE**",
       "RARITY": "IDOL",
       "GROUP": "OnlyOneOf",
       "ERA": "Idol Edition",
@@ -11168,7 +11168,7 @@
 
 "P1KH_V1": [
     {
-      "NAME": "`"⚪` P1Harmony **기호 KEEHO**",
+      "NAME": "`⚪` P1Harmony **기호 KEEHO**",
       "RARITY": "IDOL",
       "GROUP": "P1Harmony",
       "ERA": "Idol Edition",
@@ -11178,7 +11178,7 @@
 
 "P1TH_V1": [
     {
-      "NAME": "`"⚪` P1Harmony **테오 THEO**",
+      "NAME": "`⚪` P1Harmony **테오 THEO**",
       "RARITY": "IDOL",
       "GROUP": "P1Harmony",
       "ERA": "Idol Edition",
@@ -11188,7 +11188,7 @@
 
 "P1JI_V1": [
     {
-      "NAME": "`"⚪` P1Harmony **지웅 JIUNG**",
+      "NAME": "`⚪` P1Harmony **지웅 JIUNG**",
       "RARITY": "IDOL",
       "GROUP": "P1Harmony",
       "ERA": "Idol Edition",
@@ -11198,7 +11198,7 @@
 
 "P1IN_V1": [
     {
-      "NAME": "`"⚪` P1Harmony **인탁 INTAK**",
+      "NAME": "`⚪` P1Harmony **인탁 INTAK**",
       "RARITY": "IDOL",
       "GROUP": "P1Harmony",
       "ERA": "Idol Edition",
@@ -11208,7 +11208,7 @@
 
 "P1SO_V1": [
     {
-      "NAME": "`"⚪` P1Harmony **소울 SOUL**",
+      "NAME": "`⚪` P1Harmony **소울 SOUL**",
       "RARITY": "IDOL",
       "GROUP": "P1Harmony",
       "ERA": "Idol Edition",
@@ -11218,7 +11218,7 @@
 
 "P1JO_V1": [
     {
-      "NAME": "`"⚪` P1Harmony **종섭 JONGSEOB**",
+      "NAME": "`⚪` P1Harmony **종섭 JONGSEOB**",
       "RARITY": "IDOL",
       "GROUP": "P1Harmony",
       "ERA": "Idol Edition",
@@ -11228,7 +11228,7 @@
 
 "P1KH_SO": [
     {
-      "NAME": "`"⚫` P1Harmony **기호 KEEHO**",
+      "NAME": "`⚫` P1Harmony **기호 KEEHO**",
       "RARITY": "THEME",
       "GROUP": "P1Harmony",
       "ERA": "DISHARMONY : STAND OUT",
@@ -11238,7 +11238,7 @@
 
 "P1TH_SO": [
     {
-      "NAME": "`"⚫` P1Harmony **테오 THEO**",
+      "NAME": "`⚫` P1Harmony **테오 THEO**",
       "RARITY": "THEME",
       "GROUP": "P1Harmony",
       "ERA": "DISHARMONY : STAND OUT",
@@ -11248,7 +11248,7 @@
 
 "P1JI_SO": [
     {
-      "NAME": "`"⚫` P1Harmony **지웅 JIUNG**",
+      "NAME": "`⚫` P1Harmony **지웅 JIUNG**",
       "RARITY": "THEME",
       "GROUP": "P1Harmony",
       "ERA": "DISHARMONY : STAND OUT",
@@ -11258,7 +11258,7 @@
 
 "P1IN_SO": [
     {
-      "NAME": "`"⚫` P1Harmony **인탁 INTAK**",
+      "NAME": "`⚫` P1Harmony **인탁 INTAK**",
       "RARITY": "THEME",
       "GROUP": "P1Harmony",
       "ERA": "DISHARMONY : STAND OUT",
@@ -11268,7 +11268,7 @@
 
 "P1SO_SO": [
     {
-      "NAME": "`"⚫` P1Harmony **소울 SOUL**",
+      "NAME": "`⚫` P1Harmony **소울 SOUL**",
       "RARITY": "THEME",
       "GROUP": "P1Harmony",
       "ERA": "DISHARMONY : STAND OUT",
@@ -11278,7 +11278,7 @@
 
 "P1JO_SO": [
     {
-      "NAME": "`"⚫` P1Harmony **종섭 JONGSEOB**",
+      "NAME": "`⚫` P1Harmony **종섭 JONGSEOB**",
       "RARITY": "THEME",
       "GROUP": "P1Harmony",
       "ERA": "DISHARMONY : STAND OUT",
@@ -11288,7 +11288,7 @@
 
 "P1KH_BO": [
     {
-      "NAME": "`"⚫` P1Harmony **기호 KEEHO**",
+      "NAME": "`⚫` P1Harmony **기호 KEEHO**",
       "RARITY": "THEME",
       "GROUP": "P1Harmony",
       "ERA": "DISHARMONY : BREAK OUT",
@@ -11298,7 +11298,7 @@
 
 "P1TH_BO": [
     {
-      "NAME": "`"⚫` P1Harmony **테오 THEO**",
+      "NAME": "`⚫` P1Harmony **테오 THEO**",
       "RARITY": "THEME",
       "GROUP": "P1Harmony",
       "ERA": "DISHARMONY : BREAK OUT",
@@ -11308,7 +11308,7 @@
 
 "P1JI_BO": [
     {
-      "NAME": "`"⚫` P1Harmony **지웅 JIUNG**",
+      "NAME": "`⚫` P1Harmony **지웅 JIUNG**",
       "RARITY": "THEME",
       "GROUP": "P1Harmony",
       "ERA": "DISHARMONY : BREAK OUT",
@@ -11318,7 +11318,7 @@
 
 "P1IN_BO": [
     {
-      "NAME": "`"⚫` P1Harmony **인탁 INTAK**",
+      "NAME": "`⚫` P1Harmony **인탁 INTAK**",
       "RARITY": "THEME",
       "GROUP": "P1Harmony",
       "ERA": "DISHARMONY : BREAK OUT",
@@ -11328,7 +11328,7 @@
 
 "P1SO_BO": [
     {
-      "NAME": "`"⚫` P1Harmony **소울 SOUL**",
+      "NAME": "`⚫` P1Harmony **소울 SOUL**",
       "RARITY": "THEME",
       "GROUP": "P1Harmony",
       "ERA": "DISHARMONY : BREAK OUT",
@@ -11338,7 +11338,7 @@
 
 "P1JO_BO": [
     {
-      "NAME": "`"⚫` P1Harmony **종섭 JONGSEOB**",
+      "NAME": "`⚫` P1Harmony **종섭 JONGSEOB**",
       "RARITY": "THEME",
       "GROUP": "P1Harmony",
       "ERA": "DISHARMONY : BREAK OUT",
@@ -11348,7 +11348,7 @@
 
 "P1KH_FO": [
     {
-      "NAME": "`"⚫` P1Harmony **기호 KEEHO**",
+      "NAME": "`⚫` P1Harmony **기호 KEEHO**",
       "RARITY": "THEME",
       "GROUP": "P1Harmony",
       "ERA": "DISHARMONY : FIND OUT",
@@ -11358,7 +11358,7 @@
 
 "P1TH_FO": [
     {
-      "NAME": "`"⚫` P1Harmony **테오 THEO**",
+      "NAME": "`⚫` P1Harmony **테오 THEO**",
       "RARITY": "THEME",
       "GROUP": "P1Harmony",
       "ERA": "DISHARMONY : FIND OUT",
@@ -11368,7 +11368,7 @@
 
 "P1JI_FO": [
     {
-      "NAME": "`"⚫` P1Harmony **지웅 JIUNG**",
+      "NAME": "`⚫` P1Harmony **지웅 JIUNG**",
       "RARITY": "THEME",
       "GROUP": "P1Harmony",
       "ERA": "DISHARMONY : FIND OUT",
@@ -11378,7 +11378,7 @@
 
 "P1IN_FO": [
     {
-      "NAME": "`"⚫` P1Harmony **인탁 INTAK**",
+      "NAME": "`⚫` P1Harmony **인탁 INTAK**",
       "RARITY": "THEME",
       "GROUP": "P1Harmony",
       "ERA": "DISHARMONY : FIND OUT",
@@ -11388,7 +11388,7 @@
 
 "P1SO_FO": [
     {
-      "NAME": "`"⚫` P1Harmony **소울 SOUL**",
+      "NAME": "`⚫` P1Harmony **소울 SOUL**",
       "RARITY": "THEME",
       "GROUP": "P1Harmony",
       "ERA": "DISHARMONY : FIND OUT",
@@ -11398,7 +11398,7 @@
 
 "P1JO_FO": [
     {
-      "NAME": "`"⚫` P1Harmony **종섭 JONGSEOB**",
+      "NAME": "`⚫` P1Harmony **종섭 JONGSEOB**",
       "RARITY": "THEME",
       "GROUP": "P1Harmony",
       "ERA": "DISHARMONY : FIND OUT",
@@ -11408,7 +11408,7 @@
 
 "P1KH_22SG": [
     {
-      "NAME": "`"🗓️` P1Harmony **기호 KEEHO**",
+      "NAME": "`🗓️` P1Harmony **기호 KEEHO**",
       "RARITY": "EVENT",
       "GROUP": "P1Harmony",
       "ERA": "2022 Season's Greetings",
@@ -11418,7 +11418,7 @@
 
 "P1TH_22SG": [
     {
-      "NAME": "`"🗓️` P1Harmony **테오 THEO**",
+      "NAME": "`🗓️` P1Harmony **테오 THEO**",
       "RARITY": "EVENT",
       "GROUP": "P1Harmony",
       "ERA": "2022 Season's Greetings",
@@ -11428,7 +11428,7 @@
 
 "P1JI_22SG": [
     {
-      "NAME": "`"🗓️` P1Harmony **지웅 JIUNG**",
+      "NAME": "`🗓️` P1Harmony **지웅 JIUNG**",
       "RARITY": "EVENT",
       "GROUP": "P1Harmony",
       "ERA": "2022 Season's Greetings",
@@ -11438,7 +11438,7 @@
 
 "P1IN_22SG": [
     {
-      "NAME": "`"🗓️` P1Harmony **인탁 INTAK**",
+      "NAME": "`🗓️` P1Harmony **인탁 INTAK**",
       "RARITY": "EVENT",
       "GROUP": "P1Harmony",
       "ERA": "2022 Season's Greetings",
@@ -11448,7 +11448,7 @@
 
 "P1SO_22SG": [
     {
-      "NAME": "`"🗓️` P1Harmony **소울 SOUL**",
+      "NAME": "`🗓️` P1Harmony **소울 SOUL**",
       "RARITY": "EVENT",
       "GROUP": "P1Harmony",
       "ERA": "2022 Season's Greetings",
@@ -11458,7 +11458,7 @@
 
 "P1JO_22SG": [
     {
-      "NAME": "`"🗓️` P1Harmony **종섭 JONGSEOB**",
+      "NAME": "`🗓️` P1Harmony **종섭 JONGSEOB**",
       "RARITY": "EVENT",
       "GROUP": "P1Harmony",
       "ERA": "2022 Season's Greetings",
@@ -11468,7 +11468,7 @@
 
 "P1KH_LX": [
     {
-      "NAME": "`"🟣` P1Harmony **기호 KEEHO**",
+      "NAME": "`🟣` P1Harmony **기호 KEEHO**",
       "RARITY": "LUX",
       "GROUP": "P1Harmony",
       "ERA": "Lux Edition",

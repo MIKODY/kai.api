@@ -21032,6 +21032,506 @@
       "ERA": "Girls Planet 999 - Creation Mission (Utopia)",
       "IMAGE": "https://cdn.discordapp.com/attachments/890500019529064488/899276519728365608/UNKY_J9.png"
     }
+  ],
+    
+"TXSO_AU": [
+    {
+      "NAME": "`🍁` TXT **수빈 SOOBIN**",
+      "RARITY": "EVENT",
+      "GROUP": "TXT",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/895839669940535316/TXSO_AU.png"
+    }
+  ],
+
+"ASSA_AU": [
+    {
+      "NAME": "`🍁` ASTRO **산하 SANHA**",
+      "RARITY": "EVENT",
+      "GROUP": "ASTRO",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/895839670993313792/ASSA_AU.png"
+    }
+  ],
+
+"ASEU_AU": [
+    {
+      "NAME": "`🍁` ASTRO **차은우 CHA EUNWOO**",
+      "RARITY": "EVENT",
+      "GROUP": "ASTRO",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/895839670661955624/ASEU_AU.png"
+    }
+  ],
+
+"TWDA_AU": [
+    {
+      "NAME": "`🍁` TWICE **다현 DAHYUN**",
+      "RARITY": "EVENT",
+      "GROUP": "TWICE",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/895839671236567060/TWDA_AU.png"
+    }
+  ],
+
+"BTJI_AU": [
+    {
+      "NAME": "`🍁` BTS **진 JIN**",
+      "RARITY": "EVENT",
+      "GROUP": "BTS",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/895839681835597875/BTJI_AU.png"
+    }
+  ],
+
+"IZCW_AU": [
+    {
+      "NAME": "`🍁` IZ＊ONE **채원 CHAEWON**",
+      "RARITY": "EVENT",
+      "GROUP": "IZONE",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/895839684167598090/IZCW_AU.png"
+    }
+  ],
+
+"IZMI_AU": [
+    {
+      "NAME": "`🍁` IZ＊ONE **민주 MINJU**",
+      "RARITY": "EVENT",
+      "GROUP": "IZONE",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/895839688592588820/IZMI_AU.png"
+    }
+  ],
+
+"LOVI_AU": [
+    {
+      "NAME": "`🍁` LOONA **비비 VIVI**",
+      "RARITY": "EVENT",
+      "GROUP": "LOONA",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/895839693927747625/LOVI_AU.png"
+    }
+  ],
+
+"NCJH_AU": [
+    {
+      "NAME": "`🍁` NCT **재현 JAEHYUN**",
+      "RARITY": "EVENT",
+      "GROUP": "NCT",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/898808333857878026/NCJH_AU.png"
+    }
+  ],
+
+"RVSE_AU": [
+    {
+      "NAME": "`🍁` Red Velvet **슬기 SEULGI**",
+      "RARITY": "EVENT",
+      "GROUP": "RedVelvet",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/895839719789834250/RVSE_AU.png"
+    }
+  ],
+
+"SKLK_AU": [
+    {
+      "NAME": "`🍁` Stray Kids **리노 LEE KNOW**",
+      "RARITY": "EVENT",
+      "GROUP": "StrayKids",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/895839727683530793/SKLK_AU.png"
+    }
+  ],
+
+"SOCH_AU": [
+    {
+      "NAME": "`🍁` Soloist **청하 CHUNGHA**",
+      "RARITY": "EVENT",
+      "GROUP": "ChungHa",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/895839731219308554/SOCH_AU.png"
+    }
+  ],
+
+"SOIU_AU": [
+    {
+      "NAME": "`🍁` Soloist **아이유 IU**",
+      "RARITY": "EVENT",
+      "GROUP": "IU",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/895839733035454504/SOIU_AU.png"
+    }
+  ],
+
+"SOWZ_AU": [
+    {
+      "NAME": "`🍁` Soloist **WOODZ**",
+      "RARITY": "EVENT",
+      "GROUP": "WOODZ",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/895839670934569030/SOWZ_AU.png"
+    }
+  ],
+
+"SOWO_AU": [
+    {
+      "NAME": "`🍁` Soloist **원호 WONHO**",
+      "RARITY": "EVENT",
+      "GROUP": "Wonho",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/895839734180483082/SOWO_AU.png"
+    }
+  ],
+
+"TXBE_AU": [
+    {
+      "NAME": "`🍁` TXT **범규 BEOMGYU**",
+      "RARITY": "EVENT",
+      "GROUP": "TXT",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/896970015331475477/TXBE_AU.png"
+    }
+  ],
+
+"SOSZ_AU": [
+    {
+      "NAME": "`🍁` Soloist **수지 SUZY**",
+      "RARITY": "EVENT",
+      "GROUP": "Suzy",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/896970020817633300/SOSZ_AU.png"
+    }
+  ],
+
+"BPJN_AU": [
+    {
+      "NAME": "`🍁` BLACKPINK **제니 JENNIE**",
+      "RARITY": "EVENT",
+      "GROUP": "BLACKPINK",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/896970017529274438/BPJN_AU.png"
+    }
+  ],
+
+"SOHZ_AU": [
+    {
+      "NAME": "`🍁` Soloist **헤이즈 HEIZE**",
+      "RARITY": "EVENT",
+      "GROUP": "Heize",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/896970017512505344/SOHZ_AU.png"
+    }
+  ],
+
+"SOTY_AU": [
+    {
+      "NAME": "`🍁` Soloist **태연 TAEYEON**",
+      "RARITY": "EVENT",
+      "GROUP": "Taeyeon",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/896970018040991814/SOTY_AU.png"
+    }
+  ],
+
+"GIMI_AU": [
+    {
+      "NAME": "`🍁` (G)I-DLE **민니 MINNIE**",
+      "RARITY": "EVENT",
+      "GROUP": "GIDLE",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/897396445278269440/GIMI_AU.png"
+    }
+  ],
+
+"ATSA_AU": [
+    {
+      "NAME": "`🍁` ATEEZ **산 SAN**",
+      "RARITY": "EVENT",
+      "GROUP": "ATEEZ",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/897488460481454080/ATSA_AU.png"
+    }
+  ],
+
+"AENI_AU": [
+    {
+      "NAME": "`🍁` aespa **닝닝 NINGNING**",
+      "RARITY": "EVENT",
+      "GROUP": "aespa",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/897396416031379476/AENI_AU.png"
+    }
+  ],
+
+"D6JA_AU": [
+    {
+      "NAME": "`🍁` DAY6 **제이 JAE**",
+      "RARITY": "EVENT",
+      "GROUP": "DAY6",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/897396416434024498/D6JA_AU.png"
+    }
+  ],
+
+"ENSU_AU": [
+    {
+      "NAME": "`🍁` ENHYPEN **선우 SUNOO**",
+      "RARITY": "EVENT",
+      "GROUP": "ENHYPEN",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/897396425820893214/ENSU_AU.png"
+    }
+  ],
+
+"EIHA_AU": [
+    {
+      "NAME": "`🍁` EXID **하니 HANI**",
+      "RARITY": "EVENT",
+      "GROUP": "EXID",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/897396425825062922/EIHA_AU.png"
+    }
+  ],
+
+"EXBH_AU": [
+    {
+      "NAME": "`🍁` EXO **백현 BAEKHYUN**",
+      "RARITY": "EVENT",
+      "GROUP": "EXO",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/897396432544337940/EXBH_AU.png"
+    }
+  ],
+
+"G7JA_AU": [
+    {
+      "NAME": "`🍁` GOT7 **잭슨 JACKSON**",
+      "RARITY": "EVENT",
+      "GROUP": "GOT7",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/897396439561416704/G7JA_AU.png"
+    }
+  ],
+
+"ITYE_AU": [
+    {
+      "NAME": "`🍁` ITZY **예지 YEJI**",
+      "RARITY": "EVENT",
+      "GROUP": "ITZY",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/897396415624519701/ITYE_AU.png"
+    }
+  ],
+
+"SVSC_AU": [
+    {
+      "NAME": "`🍁` Seventeen **에스쿱스 S.COUPS**",
+      "RARITY": "EVENT",
+      "GROUP": "Seventeen",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/897488459919409182/SVSC_AU.png"
+    }
+  ],
+
+"IZWY_AU": [
+    {
+      "NAME": "`🍁` IZ＊ONE **원영 WONYOUNG**",
+      "RARITY": "EVENT",
+      "GROUP": "IZONE",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/898148719206211594/IZWY_AU.png"
+    }
+  ],
+
+"ACBK_AU": [
+    {
+      "NAME": "`🍁` A.C.E **병관 BYEONGKWAN**",
+      "RARITY": "EVENT",
+      "GROUP": "ACE",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/898148711895560232/ACBK_AU.png"
+    }
+  ],
+
+"DVLH_AU": [
+    {
+      "NAME": "`🍁` Davichi **이해리 LEE HAERI**",
+      "RARITY": "EVENT",
+      "GROUP": "Davichi",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/898148714277916742/DVLH_AU.png"
+    }
+  ],
+
+"SHKE_AU": [
+    {
+      "NAME": "`🍁` SHINee **키 KEY**",
+      "RARITY": "EVENT",
+      "GROUP": "SHINee",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/898148726315548682/SHKE_AU.png"
+    }
+  ],
+
+"NFSH_AU": [
+    {
+      "NAME": "`🍁` N.Flying **승협 SEUNGHYUB**",
+      "RARITY": "EVENT",
+      "GROUP": "NFlying",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/898148723450839040/NFSH_AU.png"
+    }
+  ],
+
+"WJYE_AU": [
+    {
+      "NAME": "`🍁` WJSN **여름 YEOREUM**",
+      "RARITY": "EVENT",
+      "GROUP": "WJSN",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/898148711811678239/WJYE_AU.png"
+    }
+  ],
+
+"MMWH_AU": [
+    {
+      "NAME": "`🍁` MAMAMOO **휘인 WHEEIN**",
+      "RARITY": "EVENT",
+      "GROUP": "Mamamoo",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/898148720275759114/MMWH_AU.png"
+    }
+  ],
+
+"F9CH_AU": [
+    {
+      "NAME": "`🍁` fromis_9 **채영 CHAEYOUNG**",
+      "RARITY": "EVENT",
+      "GROUP": "fromis9",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/898148719332048936/F9CH_AU.png"
+    }
+  ],
+
+"TWSA_AU": [
+    {
+      "NAME": "`🍁` TWICE **사나 SANA**",
+      "RARITY": "EVENT",
+      "GROUP": "TWICE",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/898148729201254400/TWSA_AU.png"
+    }
+  ],
+
+"BTV_AU": [
+    {
+      "NAME": "`🍁` BTS **뷔 V**",
+      "RARITY": "EVENT",
+      "GROUP": "BTS",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/898148712688283719/BTV_AU.png"
+    }
+  ],
+
+"TXHK_AU": [
+    {
+      "NAME": "`🍁` TXT **휴닝카이 HUENINGKAI**",
+      "RARITY": "EVENT",
+      "GROUP": "TXT",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/898799556798586911/TXHK_AU.png"
+    }
+  ],
+
+"TBHY_AU": [
+    {
+      "NAME": "`🍁` The Boyz **현재 HYUNJAE**",
+      "RARITY": "EVENT",
+      "GROUP": "TheBoyz",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/898799544601559090/TBHY_AU.png"
+    }
+  ],
+
+"SOHY_AU": [
+    {
+      "NAME": "`🍁` Soloist **현아 HYUNA**",
+      "RARITY": "EVENT",
+      "GROUP": "HyunA",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/898799540205920266/SOHY_AU.png"
+    }
+  ],
+
+"SOSY_AU": [
+    {
+      "NAME": "`🍁` Soloist **소유 SOYOU**",
+      "RARITY": "EVENT",
+      "GROUP": "Soyou",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/898799539673268274/SOSY_AU.png"
+    }
+  ],
+
+"SF9HW_AU": [
+    {
+      "NAME": "`🍁` SF9 **휘영 HWIYOUNG**",
+      "RARITY": "EVENT",
+      "GROUP": "SF9",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/898799539773902878/SF9HW_AU.png"
+    }
+  ],
+
+"NCTY_AU": [
+    {
+      "NAME": "`🍁` NCT **태용 TAEYONG**",
+      "RARITY": "EVENT",
+      "GROUP": "NCT",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/898808934410878986/NCTY_AU.png"
+    }
+  ],
+
+"RVJO_AU": [
+    {
+      "NAME": "`🍁` Red Velvet **조이 JOY**",
+      "RARITY": "EVENT",
+      "GROUP": "RedVelvet",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/898799537341214720/RVJO_AU.png"
+    }
+  ],
+
+"F9JH_AU": [
+    {
+      "NAME": "`🍁` fromis_9 **지헌 JIHEON**",
+      "RARITY": "EVENT",
+      "GROUP": "fromis9",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/898799538167509042/F9JH_AU.png"
+    }
+  ],
+
+"GFYU_AU": [
+    {
+      "NAME": "`🍁` GFRIEND **유주 YUJU**",
+      "RARITY": "EVENT",
+      "GROUP": "GFRIEND",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/898799537945186364/GFYU_AU.png"
+    }
+  ],
+
+"CVWB_AU": [
+    {
+      "NAME": "`🍁` CRAVITY **우빈 WOOBIN**",
+      "RARITY": "EVENT",
+      "GROUP": "CRAVITY",
+      "ERA": "Autumn Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/898799536783388693/CVWB_AU.png"
+    }
   ]
 
 }

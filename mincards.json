@@ -23034,6 +23034,106 @@
       "ERA": "Lunar New Year Collection",
       "IMAGE": "https://cdn.discordapp.com/attachments/938017518923178014/938017910390161430/UPHW_LNY.png"
     }
+  ],
+
+"BOON_CC": [
+    {
+      "NAME": "`🎨` Card Creator **BOON**",
+      "RARITY": "EVENT",
+      "GROUP": "CardCreator",
+      "ERA": "Card Creator",
+      "IMAGE": "https://cdn.discordapp.com/attachments/864679241324429322/930088524055732275/BOON_CC.png"
+    }
+  ],
+
+"ZERO_CC": [
+    {
+      "NAME": "`🎨` Card Creator **ZERO**",
+      "RARITY": "EVENT",
+      "GROUP": "CardCreator",
+      "ERA": "Card Creator",
+      "IMAGE": "https://cdn.discordapp.com/attachments/872784956424867840/931804679090880532/ZERO_CC.png"
+    }
+  ],
+
+"COZY_CC": [
+    {
+      "NAME": "`🎨` Card Creator **COZY**",
+      "RARITY": "EVENT",
+      "GROUP": "CardCreator",
+      "ERA": "Card Creator",
+      "IMAGE": "https://cdn.discordapp.com/attachments/815223380625326114/929290880391708732/COZY_CC.png"
+    }
+  ],
+
+"SOPH_CC": [
+    {
+      "NAME": "`🎨` Card Creator **SOPHIE**",
+      "RARITY": "EVENT",
+      "GROUP": "CardCreator",
+      "ERA": "Card Creator",
+      "IMAGE": "https://cdn.discordapp.com/attachments/884116364841852979/926859236267417600/SOPH_CC.png"
+    }
+  ],
+
+"BNNT_CC": [
+    {
+      "NAME": "`🎨` Card Creator **BENNETT**",
+      "RARITY": "EVENT",
+      "GROUP": "CardCreator",
+      "ERA": "Card Creator",
+      "IMAGE": "https://cdn.discordapp.com/attachments/872784956424867840/931804679464161300/BNNT_CC.png"
+    }
+  ],
+
+"HARI_CC": [
+    {
+      "NAME": "`🎨` Card Creator **HARI**",
+      "RARITY": "EVENT",
+      "GROUP": "CardCreator",
+      "ERA": "Card Creator",
+      "IMAGE": "https://cdn.discordapp.com/attachments/888113122928377857/948025696880590898/HARI_CC.png"
+    }
+  ],
+
+"MARK_CC": [
+    {
+      "NAME": "`🎨` Card Creator **MARK**",
+      "RARITY": "EVENT",
+      "GROUP": "CardCreator",
+      "ERA": "Card Creator",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873213392104595486/925622458042691604/MARK_CC.png"
+    }
+  ],
+
+"SERI_CC": [
+    {
+      "NAME": "`🎨` Card Creator **SERI**",
+      "RARITY": "EVENT",
+      "GROUP": "CardCreator",
+      "ERA": "Card Creator",
+      "IMAGE": "https://cdn.discordapp.com/attachments/867663918780645387/955673008738021416/SERI_CC.png"
+    }
+  ],
+
+"RIM_CC": [
+    {
+      "NAME": "`🎨` Card Creator **RIM**",
+      "RARITY": "EVENT",
+      "GROUP": "CardCreator",
+      "ERA": "Card Creator",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873213392104595486/925622458520858664/RIM_CC.png"
+    }
+  ],
+
+"GLZY_CC": [
+    {
+      "NAME": "`🎨` Card Creator **GLITZY**",
+      "RARITY": "EVENT",
+      "GROUP": "CardCreator",
+      "ERA": "Card Creator",
+      "IMAGE": "https://cdn.discordapp.com/attachments/946079863817789462/953809060489216000/GLZY_CC.png"
+    }
   ]
 
 }

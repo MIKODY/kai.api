@@ -21532,6 +21532,606 @@
       "ERA": "Autumn Collection",
       "IMAGE": "https://cdn.discordapp.com/attachments/895836718266208287/898799536783388693/CVWB_AU.png"
     }
+  ],
+    
+"TBYO_HW": [
+    {
+      "NAME": "`🎃` The Boyz **영훈 YOUNGHOON**",
+      "RARITY": "EVENT",
+      "GROUP": "TheBoyz",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/904403456725512222/TBYO_HW.png"
+    }
+  ],
+
+"NCWI_HW": [
+    {
+      "NAME": "`🎃` NCT **윈윈 WINWIN**",
+      "RARITY": "EVENT",
+      "GROUP": "NCT",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/904403438979407923/NCWI_HW.png"
+    }
+  ],
+
+"BTSG_HW": [
+    {
+      "NAME": "`🎃` BTS **슈가 SUGA**",
+      "RARITY": "EVENT",
+      "GROUP": "BTS",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/904403432432095232/BTSG_HW.png"
+    }
+  ],
+
+"ENJK_HW": [
+    {
+      "NAME": "`🎃` ENHYPEN **제이크 JAKE**",
+      "RARITY": "EVENT",
+      "GROUP": "ENHYPEN",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/904403439822458890/ENJK_HW.png"
+    }
+  ],
+
+"CVAL_HW": [
+    {
+      "NAME": "`🎃` CRAVITY **앨런 ALLEN**",
+      "RARITY": "EVENT",
+      "GROUP": "CRAVITY",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/904403437045821500/CRAL_HW.png"
+    }
+  ],
+
+"OHAR_HW": [
+    {
+      "NAME": "`🎃` Oh My Girl **아린 ARIN**",
+      "RARITY": "EVENT",
+      "GROUP": "OhMyGirl",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/904403442024460368/OHAR_HW.png"
+    }
+  ],
+
+"TWMI_HW": [
+    {
+      "NAME": "`🎃` TWICE **미나 MINA**",
+      "RARITY": "EVENT",
+      "GROUP": "TWICE",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873213392104595486/962599301933047848/TWMI_HW.png"
+    }
+  ],
+
+"LOYV_HW": [
+    {
+      "NAME": "`🎃` LOONA **이브 YVES**",
+      "RARITY": "EVENT",
+      "GROUP": "LOONA",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/904403442666201138/LOYV_HW.png"
+    }
+  ],
+
+"RVSE_HW": [
+    {
+      "NAME": "`🎃` Red Velvet **슬기 SEULGI**",
+      "RARITY": "EVENT",
+      "GROUP": "RedVelvet",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/904403439528857630/RVSE_HW.png"
+    }
+  ],
+
+"DCSI_HW": [
+    {
+      "NAME": "`🎃` Dreamcatcher **시연 SIYEON**",
+      "RARITY": "EVENT",
+      "GROUP": "Dreamcatcher",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/904403435695247441/DCSI_HW.png"
+    }
+  ],
+
+"TXTH_HW": [
+    {
+      "NAME": "`🎃` TXT **태현 TAEHYUN**",
+      "RARITY": "EVENT",
+      "GROUP": "TXT",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/905338690400821248/TXTH_HW.png"
+    }
+  ],
+
+"ATSA_HW": [
+    {
+      "NAME": "`🎃` ATEEZ **산 SAN**",
+      "RARITY": "EVENT",
+      "GROUP": "ATEEZ",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/873213392104595486/962599302306365450/ATSA_HW.png"
+    }
+  ],
+
+"SHNMI_HW": [
+    {
+      "NAME": "`🎃` SHINee **민호 MINHO**",
+      "RARITY": "EVENT",
+      "GROUP": "SHINee",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/905338688941211668/SHNMI_HW.png"
+    }
+  ],
+
+"VRHO_HW": [
+    {
+      "NAME": "`🎃` VERIVERY **호영 HOYOUNG**",
+      "RARITY": "EVENT",
+      "GROUP": "VERIVERY",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/905338691986280448/VRHO_HW.png"
+    }
+  ],
+
+"T1GU_HW": [
+    {
+      "NAME": "`🎃` T1419 **건우 GUNWOO**",
+      "RARITY": "EVENT",
+      "GROUP": "T1419",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/905338689914277908/T1GU_HW.png"
+    }
+  ],
+
+"AEWT_HW": [
+    {
+      "NAME": "`🎃` aespa **윈터 WINTER**",
+      "RARITY": "EVENT",
+      "GROUP": "aespa",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/905338685023739924/AEWT_HW.png"
+    }
+  ],
+
+"AEGI_HW": [
+    {
+      "NAME": "`🎃` aespa **지젤 GISELLE**",
+      "RARITY": "EVENT",
+      "GROUP": "aespa",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/905338685686427678/AEGI_HW.png"
+    }
+  ],
+
+"ITYU_HW": [
+    {
+      "NAME": "`🎃` ITZY **유나 YUNA**",
+      "RARITY": "EVENT",
+      "GROUP": "ITZY",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/905338686256857108/ITYU_HW.png"
+    }
+  ],
+
+"PKGO_HW": [
+    {
+      "NAME": "`🎃` Purple Kiss **나고은 NA GOEUN**",
+      "RARITY": "EVENT",
+      "GROUP": "PurpleKiss",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/905338690056888330/PKGO_HW.png"
+    }
+  ],
+
+"TIMI_HW": [
+    {
+      "NAME": "`🎃` TRI.BE **미레 MIRE**",
+      "RARITY": "EVENT",
+      "GROUP": "TRIBE",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/905338690216288266/TIMI_HW.png"
+    }
+  ],
+
+"BUGCH_HW": [
+    {
+      "NAME": "`🎃` bugAboo **초연 CHOYEON**",
+      "RARITY": "EVENT",
+      "GROUP": "bugAboo",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/906080133591466014/BUGCH_HW.png"
+    }
+  ],
+
+"IZSK_HW": [
+    {
+      "NAME": "`🎃` IZ＊ONE **사쿠라 SAKURA**",
+      "RARITY": "EVENT",
+      "GROUP": "IZONE",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/906080134497443841/IZSK_HW.png"
+    }
+  ],
+
+"NCTE_HW": [
+    {
+      "NAME": "`🎃` NCT **텐 TEN**",
+      "RARITY": "EVENT",
+      "GROUP": "NCT",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/906080130521255956/NCTE_HW.png"
+    }
+  ],
+
+"NCYY_HW": [
+    {
+      "NAME": "`🎃` NCT **양양 YANGYANG**",
+      "RARITY": "EVENT",
+      "GROUP": "NCT",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/906080131775336498/NCYY_HW.png"
+    }
+  ],
+
+"P1JI_HW": [
+    {
+      "NAME": "`🎃` P1Harmony **지웅 JIUNG**",
+      "RARITY": "EVENT",
+      "GROUP": "P1Harmony",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/906080131712421918/P1JI_HW.png"
+    }
+  ],
+
+"RVIR_HW": [
+    {
+      "NAME": "`🎃` Red Velvet **아이린 IRENE**",
+      "RARITY": "EVENT",
+      "GROUP": "RedVelvet",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/906080133331423252/RVIR_HW.png"
+    }
+  ],
+
+"SCYO_HW": [
+    {
+      "NAME": "`🎃` STAYC **윤 YOON**",
+      "RARITY": "EVENT",
+      "GROUP": "STAYC",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/906080137869680650/SCYO_HW.png"
+    }
+  ],
+
+"SCSI_HW": [
+    {
+      "NAME": "`🎃` STAYC **시은 SIEUN**",
+      "RARITY": "EVENT",
+      "GROUP": "STAYC",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/906080133415317556/SCSI_HW.png"
+    }
+  ],
+
+"WEYH_HW": [
+    {
+      "NAME": "`🎃` WEi **요한 YOHAN**",
+      "RARITY": "EVENT",
+      "GROUP": "WEi",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/906080145654308864/WEYH_HW.png"
+    }
+  ],
+
+"SORD_HW": [
+    {
+      "NAME": "`🎃` Soloist **레이든 RAIDEN**",
+      "RARITY": "EVENT",
+      "GROUP": "Raiden",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/906080142613442560/SORD_HW.png"
+    }
+  ],
+
+"ENNK_HW": [
+    {
+      "NAME": "`🎃` ENHYPEN **니키 NI-KI**",
+      "RARITY": "EVENT",
+      "GROUP": "ENHYPEN",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/907163631194632202/ENNK_HW.png"
+    }
+  ],
+
+"ACBK_HW": [
+    {
+      "NAME": "`🎃` A.C.E **병관 BYEONGKWAN**",
+      "RARITY": "EVENT",
+      "GROUP": "ACE",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/907163631374962718/ACBK_HW.png"
+    }
+  ],
+
+"IZYU_HW": [
+    {
+      "NAME": "`🎃` IZ＊ONE **유리 YURI**",
+      "RARITY": "EVENT",
+      "GROUP": "IZONE",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/907163632306122762/IZYU_HW.png"
+    }
+  ],
+
+"IZEU_HW": [
+    {
+      "NAME": "`🎃` IZ＊ONE **은비 EUNBI**"
+      "RARITY": "EVENT",
+      "GROUP": "IZONE",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/907163632880717864/IZEU_HW.png"
+    }
+  ],
+
+"SOCH_HW": [
+    {
+      "NAME": "`🎃` Soloist **청하 CHUNGHA**",
+      "RARITY": "EVENT",
+      "GROUP": "ChungHa",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/907163633488896040/SOCH_HW.png"
+    }
+  ],
+
+"TBSU_HW": [
+    {
+      "NAME": "`🎃` The Boyz **선우 SUNWOO**",
+      "RARITY": "EVENT",
+      "GROUP": "TheBoyz",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/907163634222919730/TBSU_HW.png"
+    }
+  ],
+
+"TO1JR_HW": [
+    {
+      "NAME": "`🎃` TO1 **제롬 JEROME**",
+      "RARITY": "EVENT",
+      "GROUP": "TO1",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/907163634516500520/TO1JR_HW.png"
+    }
+  ],
+
+"WKSJ_HW": [
+    {
+      "NAME": "`🎃` WEEEKLY **이수진 LEE SOOJIN**",
+      "RARITY": "EVENT",
+      "GROUP": "WEEEKLY",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/907163635137282078/WKSJ_HW.png"
+    }
+  ],
+
+"WKZO_HW": [
+    {
+      "NAME": "`🎃` WEEEKLY **조아 ZOA**",
+      "RARITY": "EVENT",
+      "GROUP": "WEEEKLY",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/907163636055805972/WKZO_HW.png"
+    }
+  ],
+
+"SVWZ_HW": [
+    {
+      "NAME": "`🎃` Seventeen **우지 WOOZI**",
+      "RARITY": "EVENT",
+      "GROUP": "Seventeen",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/907163638635311104/SVWZ_HW.png"
+    }
+  ],
+
+"SKFE_HW": [
+    {
+      "NAME": "`🎃` Stray Kids **필릭스 FELIX**",
+      "RARITY": "EVENT",
+      "GROUP": "StrayKids",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/908210617108819988/SKFE_HW.png"
+    }
+  ],
+
+"EPBK_HW": [
+    {
+      "NAME": "`🎃` EPEX **백승 BAEKSEUNG**",
+      "RARITY": "EVENT",
+      "GROUP": "EPEX",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/908210562540920852/EPBK_HW.png"
+    }
+  ],
+
+"OOKB_HW": [
+    {
+      "NAME": "`🎃` OnlyOneOf **규빈 KB**",
+      "RARITY": "EVENT",
+      "GROUP": "OnlyOneOf",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/908210591963971654/OOKB_HW.png"
+    }
+  ],
+
+"OOYJ_HW": [
+    {
+      "NAME": "`🎃` OnlyOneOf **유정 YOOJUNG**",
+      "RARITY": "EVENT",
+      "GROUP": "OnlyOneOf",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/908210603489890304/OOYJ_HW.png"
+    }
+  ],
+
+"NKHA_HW": [
+    {
+      "NAME": "`🎃` New Kidd **지한솔 JI HANSOL**",
+      "RARITY": "EVENT",
+      "GROUP": "NewKidd",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/908210589103435826/NKHA_HW.png"
+    }
+  ],
+
+"P1KH_HW": [
+    {
+      "NAME": "`🎃` P1Harmony **기호 KEEHO**",
+      "RARITY": "EVENT",
+      "GROUP": "P1Harmony",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/908210606786617384/P1KH_HW.png"
+    }
+  ],
+
+"SKIN_HW": [
+    {
+      "NAME": "`🎃` Stray Kids **아이엔 I.N**",
+      "RARITY": "EVENT",
+      "GROUP": "StrayKids",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/908210620258730004/SKIN_HW.png"
+    }
+  ],
+
+"ENSU_HW": [
+    {
+      "NAME": "`🎃` ENHYPEN **선우 SUNOO**",
+      "RARITY": "EVENT",
+      "GROUP": "ENHYPEN",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/908210558652776448/ENSU_HW.png"
+    }
+  ],
+
+"SOWO_HW": [
+    {
+      "NAME": "`🎃` Soloist **원호 WONHO**",
+      "RARITY": "EVENT",
+      "GROUP": "Wonho",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/908210629767204864/SOWO_HW.png"
+    }
+  ],
+
+"TBKV_HW": [
+    {
+      "NAME": "`🎃` The Boyz **케빈 KEVIN**",
+      "RARITY": "EVENT",
+      "GROUP": "TheBoyz",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/908210631256195113/TBKV_HW.png"
+    }
+  ],
+
+"BSFA_HW": [
+    {
+      "NAME": "`🎃` Black Swan **파투 FATOU**",
+      "RARITY": "EVENT",
+      "GROUP": "BlackSwan",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/908210542693449758/BSFA_HW.png"
+    }
+  ],
+
+"BSLE_HW": [
+    {
+      "NAME": "`🎃` Black Swan **레아 LEIA**",
+      "RARITY": "EVENT",
+      "GROUP": "BlackSwan",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/908210544727691264/BSLE_HW.png"
+    }
+  ],
+
+"EGON_HW": [
+    {
+      "NAME": "`🎃` EVERGLOW **온다 ONDA**",
+      "RARITY": "EVENT",
+      "GROUP": "EVERGLOW",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/908210551505707028/EGON_HW.png"
+    }
+  ],
+
+"DCJI_HW": [
+    {
+      "NAME": "`🎃` Dreamcatcher **지유 JIU**",
+      "RARITY": "EVENT",
+      "GROUP": "Dreamcatcher",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/908210546589986846/DCJI_HW.png"
+    }
+  ],
+
+"F9JW_HW": [
+    {
+      "NAME": "`🎃` fromis_9 **지헌 JIWON**",
+      "RARITY": "EVENT",
+      "GROUP": "fromis9",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/908210566932332574/F9JW_HW.png"
+    }
+  ],
+
+"LOJI_HW": [
+    {
+      "NAME": "`🎃` LOONA **진솔 JINSOUL**",
+      "RARITY": "EVENT",
+      "GROUP": "LOONA",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/908210570178752532/LOJI_HW.png"
+    }
+  ],
+
+"MJBI_HW": [
+    {
+      "NAME": "`🎃` Majors **비안 BIAN**",
+      "RARITY": "EVENT",
+      "GROUP": "Majors",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/908210580916142110/MJBI_HW.png"
+    }
+  ],
+
+"SOIU_HW": [
+    {
+      "NAME": "`🎃` Soloist **아이유 IU**",
+      "RARITY": "EVENT",
+      "GROUP": "IU",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/908210623589023744/SOIU_HW.png"
+    }
+  ],
+
+"LSYU_HW": [
+    {
+      "NAME": "`🎃` LIGHTSUM **유정 YUJEONG**",
+      "RARITY": "EVENT",
+      "GROUP": "LIGHTSUM",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/908210578902908978/LSYU_HW.png"
+    }
+  ],
+
+"PKSW_HW": [
+    {
+      "NAME": "`🎃` Purple Kiss **수안 SWAN**",
+      "RARITY": "EVENT",
+      "GROUP": "PurpleKiss",
+      "ERA": "Halloween Collection",
+      "IMAGE": "https://cdn.discordapp.com/attachments/904403332746067979/908210613749186570/PKSW_HW.png"
+    }
   ]
 
 }

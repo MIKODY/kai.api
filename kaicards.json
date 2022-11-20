@@ -1,1 +1,129 @@
+{
 
+"SOLCY_HR": [
+    {
+      "NAME": "`★` LEE CHAE YEON",
+      "RARITY": "NORMAL",
+      "ERA": "Hush Rush",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1030882980425633842/1030883120024658011/LeeChaeYeonHushRush.png"
+    }
+  ],
+
+"SOLCY_HRV2": [
+    {
+      "NAME": "`☆` LEE CHAE YEON",
+      "RARITY": "NORMAL",
+      "ERA": "Hush Rush",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1030882980425633842/1030883120632840313/LeeChaeYeonHushRushV2.png"
+    }
+  ],
+
+"SOSG_28": [
+    {
+      "NAME": "`★` SEULGI",
+      "RARITY": "NORMAL",
+      "ERA": "28 Reasons - gRIMHILDE",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1030882980425633842/1030883153990123591/SEULGI28ReasonsGrimHilde.png"
+    }
+  ],
+
+"SOSG_28V2": [
+    {
+      "NAME": "`☆` SEULGI",
+      "RARITY": "NORMAL",
+      "ERA": "28 Reasons - sNOWWHITE",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1030882980425633842/1030883154426343484/SEULGI28ReasonsSnowWhite.png"
+    }
+  ],
+
+"SOKEB_LT": [
+    {
+      "NAME": "`★` KWON EUN BI",
+      "RARITY": "NORMAL",
+      "ERA": "Lethality",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1030882980425633842/1030883089804689538/KwonEunBiLethality.png"
+    }
+  ],
+
+"SOKEB_LTV2": [
+    {
+      "NAME": "`☆` KWON EUN BI",
+      "RARITY": "NORMAL",
+      "ERA": "Lethality",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1030882980425633842/1030883090261889156/KwonEunBiLethalityV2.png"
+    }
+  ],
+
+"SOWH_BS": [
+    {
+      "NAME": "`★` WONHO",
+      "RARITY": "NORMAL",
+      "ERA": "Bittersweet",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1030882980425633842/1030883185841688746/WONHOBittersweet.png"
+    }
+  ],
+
+"SOWH_BSV2": [
+    {
+      "NAME": "`☆` WONHO",
+      "RARITY": "NORMAL",
+      "ERA": "Bittersweet",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1030882980425633842/1030883186235953162/WONHOBittersweetV2.png"
+    }
+  ],
+
+"SNDN_TP": [
+    {
+      "NAME": "`★` Secret Number **Denise**",
+      "RARITY": "NORMAL",
+      "ERA": "TAP",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1043716560180748340/1043716659518644367/SecretNumberTAPDenise.png"
+    }
+  ],
+
+"SNDI_TP": [
+    {
+      "NAME": "`★` Secret Number **Dita**",
+      "RARITY": "NORMAL",
+      "ERA": "TAP",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1043716560180748340/1043716659841601566/SecretNumberTAPDita.png"
+    }
+  ],
+
+"SNLE_TP": [
+    {
+      "NAME": "`★` Secret Number **Léa**",
+      "RARITY": "NORMAL",
+      "ERA": "TAP",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1043716560180748340/1043716660168753243/SecretNumberTAPLea.png"
+    }
+  ],
+
+"SNMJ_TP": [
+    {
+      "NAME": "`★` Secret Number **Minij**",
+      "RARITY": "NORMAL",
+      "ERA": "TAP",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1043716560180748340/1043716660495917066/SecretNumberTAPMinji.png"
+    }
+  ],
+
+"SNSO_TP": [
+    {
+      "NAME": "`★` Secret Number **Soodam**",
+      "RARITY": "NORMAL",
+      "ERA": "TAP",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1043716560180748340/1043716660848234547/SecretNumberTAPSoodam.png"
+    }
+  ],
+
+"SNZU_TP": [
+    {
+      "NAME": "`★` Secret Number **Zuu**",
+      "RARITY": "NORMAL",
+      "ERA": "TAP",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1043716560180748340/1043716661221523466/SecretNumberTAPZuu.png"
+    }
+  ]
+
+}

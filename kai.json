@@ -1,0 +1,180 @@
+{
+
+"IVGA_RY": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **IVE** GAEUL",
+      "RARITY": "C",
+      "ERA": "ROYAL",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121055653004316734/1121056036611166242/IVGA_RY.png"
+    }
+  ],
+
+"IVYJ_RY": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **IVE** YUJIN",
+      "RARITY": "C",
+      "ERA": "ROYAL",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121055653004316734/1121056039031291914/IVYU_RY.png"
+    }
+  ],
+
+"IVRE_RY": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **IVE** REI",
+      "RARITY": "C",
+      "ERA": "ROYAL",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121055653004316734/1121056038146285598/IVRE_RY.png"
+    }
+  ],
+
+"IVLZ_RY": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **IVE** LIZ",
+      "RARITY": "C",
+      "ERA": "ROYAL",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121055653004316734/1121056037705879722/IVLZ_RY.png"
+    }
+  ],
+
+"IVWY_RY": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **IVE** WONYOUNG",
+      "RARITY": "C",
+      "ERA": "ROYAL",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121055653004316734/1121056038653792289/IVWY_RY.png"
+    }
+  ],
+
+"IVLE_RY": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **IVE** LEESEO",
+      "RARITY": "C",
+      "ERA": "ROYAL",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121055653004316734/1121056037164818533/IVLE_RY.png"
+    }
+  ],
+
+"IVGA_LD": [
+    {
+      "NAME": "<:SCLASS:1121062340478107788> `[☆☆☆]` **IVE** GAEUL",
+      "RARITY": "S",
+      "ERA": "LOVE DIVE",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121055653004316734/1121055737389514792/IVGA_LD.png"
+    }
+  ],
+
+"IVYJ_LD": [
+    {
+      "NAME": "<:SCLASS:1121062340478107788> `[☆☆☆]` **IVE** YUJIN",
+      "RARITY": "S",
+      "ERA": "LOVE DIVE",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121055653004316734/1121055739104985138/IVYU_LD.png"
+    }
+  ],
+
+"IVRE_LD": [
+    {
+      "NAME": "<:SCLASS:1121062340478107788> `[☆☆☆]` **IVE** REI",
+      "RARITY": "S",
+      "ERA": "LOVE DIVE",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121055653004316734/1121055738467455027/IVRE_LD.png"
+    }
+  ],
+
+"IVLZ_LD": [
+    {
+      "NAME": "<:SCLASS:1121062340478107788> `[☆☆☆]` **IVE** LIZ",
+      "RARITY": "S",
+      "ERA": "LOVE DIVE",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121055653004316734/1121055738081595512/IVLZ_LD.png"
+    }
+  ],
+
+"IVWY_LD": [
+    {
+      "NAME": "<:SCLASS:1121062340478107788> `[☆☆☆]` **IVE** WONYOUNG",
+      "RARITY": "S",
+      "ERA": "LOVE DIVE",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121055653004316734/1121055738777849866/IVWY_LD.png"
+    }
+  ],
+
+"IVLE_LD": [
+    {
+      "NAME": "<:SCLASS:1121062340478107788> `[☆☆☆]` **IVE** LEESEO",
+      "RARITY": "S",
+      "ERA": "LOVE DIVE",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121055653004316734/1121055737737646190/IVLE_LD.png"
+    }
+  ],
+
+"ENJA_PL": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **ENHYPEN** JAY",
+      "RARITY": "B",
+      "ERA": "Polaroid Love",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121055292705230848/1121055677205463080/ENJA_PL.png"
+    }
+  ],
+
+"ENHE_PL": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **ENHYPEN** HEESEUNG",
+      "RARITY": "B",
+      "ERA": "Polaroid Love",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121055292705230848/1121055676769239121/ENHE_PL.png"
+    }
+  ],
+
+"ENJK_PL": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **ENHYPEN** JAKE",
+      "RARITY": "B",
+      "ERA": "Polaroid Love",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121055292705230848/1121055677541003304/ENJK_PL.png"
+    }
+  ],
+
+"ENSH_PL": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **ENHYPEN** SUNGHOON",
+      "RARITY": "B",
+      "ERA": "Polaroid Love",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121055292705230848/1121055678677659778/ENSH_PL.png"
+    }
+  ],
+
+"ENSU_PL": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **ENHYPEN** SUNOO",
+      "RARITY": "B",
+      "ERA": "Polaroid Love",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121055292705230848/1121055679008997528/ENSU_PL.png"
+    }
+  ],
+
+"ENJU_PL": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **ENHYPEN** JUNGWON",
+      "RARITY": "B",
+      "ERA": "Polaroid Love",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121055292705230848/1121055677964615700/ENJU_PL.png"
+    }
+  ],
+
+"ENNK_PL": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **ENHYPEN** NI-KI",
+      "RARITY": "B",
+      "ERA": "Polaroid Love",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121055292705230848/1121055678316953610/ENNK_PL.png"
+    }
+  ],
+
+"PLACEHOLDER": [
+    {
+      "SOMETHING": "PLACEHOLDER"
+    }
+  ]
+
+}

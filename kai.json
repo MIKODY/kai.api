@@ -330,6 +330,46 @@
     }
   ],
 
+"AEKA_AE": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **aespa** KARINA",
+      "RARITY": "C",
+      "ERA": "æ",
+      "COLOR": "AADE46",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121884798684758046/1121884872877821972/AEKA_AE.png"
+    }
+  ],
+
+"AEGI_AE": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **aespa** GISELLE",
+      "RARITY": "C",
+      "ERA": "æ",
+      "COLOR": "AADE46",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121884798684758046/1121884872521285793/AEGI_AE.png"
+    }
+  ],
+
+"AEWT_AE": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **aespa** WINTER",
+      "RARITY": "C",
+      "ERA": "æ",
+      "COLOR": "AADE46",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121884798684758046/1121884873465004044/AEWT_AE.png"
+    }
+  ],
+
+"AENI_AE": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **aespa** NINGNING",
+      "RARITY": "C",
+      "ERA": "æ",
+      "COLOR": "AADE46",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121884798684758046/1121884873167212544/AENI_AE.png"
+    }
+  ],
+
 "PLACEHOLDER": [
     {
       "SOMETHING": "PLACEHOLDER"

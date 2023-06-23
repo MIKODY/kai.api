@@ -239,6 +239,96 @@
       "IMAGE": "https://cdn.discordapp.com/attachments/1121361638700879963/1121361865105231892/ITYU_CM.PNG"
     }
   ],
+    
+"DJJDY_PF": [
+    {
+      "NAME": "<:ACLASS:1121062328364974170> `[★★★]` **NCT DOJAEJUNG** DOYOUNG",
+      "RARITY": "A",
+      "ERA": "Perfume",
+      "COLOR": "121212",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121720438033227776/1121779559851905054/DJJDY_PF.png"
+    }
+  ],
+
+"DJJJH_PF": [
+    {
+      "NAME": "<:ACLASS:1121062328364974170> `[★★★]` **NCT DOJAEJUNG** JAEHYUN",
+      "RARITY": "A",
+      "ERA": "Perfume",
+      "COLOR": "121212",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121720438033227776/1121779560174850100/DJJJH_PF.png"
+    }
+  ],
+
+"DJJJW_PF": [
+    {
+      "NAME": "<:ACLASS:1121062328364974170> `[★★★]` **NCT DOJAEJUNG** JUNGWOO",
+      "RARITY": "A",
+      "ERA": "Perfume",
+      "COLOR": "121212",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121720438033227776/1121779560585895936/DJJJW_PF.png"
+    }
+  ],
+
+"DJJDY_KS": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **NCT DOJAEJUNG** DOYOUNG",
+      "RARITY": "B",
+      "ERA": "Kiss",
+      "COLOR": "D5934D",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121720438033227776/1121787765936361534/DJJDY_KS.png"
+    }
+  ],
+
+"DJJJH_KS": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **NCT DOJAEJUNG** JAEHYUN",
+      "RARITY": "B",
+      "ERA": "Kiss",
+      "COLOR": "D5934D",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121720438033227776/1121787766318039111/DJJJH_KS.png"
+    }
+  ],
+
+"DJJJW_KS": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **NCT DOJAEJUNG** JUNGWOO",
+      "RARITY": "B",
+      "ERA": "Kiss",
+      "COLOR": "D5934D",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121720438033227776/1121787766645198998/DJJJW_KS.png"
+    }
+  ],
+
+"DJJDY_OR": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **NCT DOJAEJUNG** DOYOUNG",
+      "RARITY": "C",
+      "ERA": "Ordinary",
+      "COLOR": "AAABAE",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121720438033227776/1121763742582050896/DJJDY_OR.png"
+    }
+  ],
+
+"DJJJH_OR": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **NCT DOJAEJUNG** JAEHYUN",
+      "RARITY": "C",
+      "ERA": "Ordinary",
+      "COLOR": "AAABAE",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121720438033227776/1121763742997295164/DJJJH_OR.png"
+    }
+  ],
+
+"DJJJW_OR": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **NCT DOJAEJUNG** JUNGWOO",
+      "RARITY": "C",
+      "ERA": "Ordinary",
+      "COLOR": "AAABAE",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121720438033227776/1121763743378976820/DJJJW_OR.png"
+    }
+  ],
 
 "PLACEHOLDER": [
     {

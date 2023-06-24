@@ -370,6 +370,46 @@
     }
   ],
 
+"FFAR_CP": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **FIFTY FIFTY** ARAN",
+      "RARITY": "B",
+      "ERA": "Cupid",
+      "COLOR": "ED3052",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1122065652589543505/1122065752170704966/FFAR_CP.png"
+    }
+  ],
+
+"FFKE_CP": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **FIFTY FIFTY** KEENA",
+      "RARITY": "B",
+      "ERA": "Cupid",
+      "COLOR": "ED3052",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1122065652589543505/1122065751164063754/FFKE_CP.png"
+    }
+  ],
+
+"FFSI_CP": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **FIFTY FIFTY** SIO",
+      "RARITY": "B",
+      "ERA": "Cupid",
+      "COLOR": "ED3052",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1122065652589543505/1122065751822573658/FFSI_CP.png"
+    }
+  ],
+
+"FFSA_CP": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **FIFTY FIFTY** SAENA",
+      "RARITY": "B",
+      "ERA": "Cupid",
+      "COLOR": "ED3052",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1122065652589543505/1122065751516393503/FFSA_CP.png"
+    }
+  ],
+    
 "PLACEHOLDER": [
     {
       "SOMETHING": "PLACEHOLDER"

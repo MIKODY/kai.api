@@ -16,6 +16,19 @@
     "A": "https://cdn.discordapp.com/attachments/1121368909048717362/1122818682637275187/A-CLASS.png",
     "S": "https://cdn.discordapp.com/attachments/1121368909048717362/1122818682402390087/S-CLASS.png"
   }
+  ],
+
+ "CFUSE": [
+  {
+    "C": "[★] to [★]",
+    "CEMOJI": "<:FUSERE:1122818427489370122>",
+    "CINFO": "Fail!",
+    "CSTATUS": "danger",
+    "B": "[★] to [★★]",
+    "BEMOJI": "<:FUSEUP:1122818432694501439>",
+    "BINFO": "Success!",
+    "BSTATUS": "success"
+  }
   ]
   
 }

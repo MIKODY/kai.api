@@ -21,11 +21,13 @@
  "CFUSE": [
   {
     "C": "★",
-    "CEMOJI": "FUSERE:1122818427489370122",
+    "CEMOJI": "FUSERE",
+    "CEMOJI2": "1122818427489370122",
     "CINFO": "Fail!",
     "CSTATUS": "danger",
     "B": "★★",
-    "BEMOJI": "FUSEUP:1122818432694501439",
+    "BEMOJI": "FUSEUP",
+    "CEMOJI2": "1122818432694501439",
     "BINFO": "Success!",
     "BSTATUS": "success"
   }

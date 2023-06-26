@@ -20,11 +20,11 @@
 
  "CFUSE": [
   {
-    "C": "[★] to [★]",
+    "C": "★",
     "CEMOJI": "<:FUSERE:1122818427489370122>",
     "CINFO": "Fail!",
     "CSTATUS": "danger",
-    "B": "[★] to [★★]",
+    "B": "★★",
     "BEMOJI": "<:FUSEUP:1122818432694501439>",
     "BINFO": "Success!",
     "BSTATUS": "success"

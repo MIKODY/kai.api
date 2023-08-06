@@ -450,7 +450,337 @@
       "IMAGE": "https://cdn.discordapp.com/attachments/1122065652589543505/1122065751516393503/FFSA_CP.png"
     }
   ],
-    
+
+"VZEU_FB": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **VIVIZ** EUNHA",
+      "RARITY": "C",
+      "GROUP": "VIVIZ",
+      "ERA": "#FLASHBACK",
+      "COLOR": "f5f58d",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128308556958011402/VZEU_FB.png"
+    }
+  ],
+
+"VZUM_FB": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **VIVIZ** UMJI",
+      "RARITY": "C",
+      "GROUP": "VIVIZ",
+      "ERA": "#FLASHBACK",
+      "COLOR": "f5f58d",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128308556593119343/VZUM_FB.png"
+    }
+  ],
+
+"VZSB_FB": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **VIVIZ** SINB",
+      "RARITY": "C",
+      "GROUP": "VIVIZ",
+      "ERA": "#FLASHBACK",
+      "COLOR": "f5f58d",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128308556228206673/VZSB_FB.png"
+    }
+  ],
+
+"VZEU_VR": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **VIVIZ** EUNHA",
+      "RARITY": "C",
+      "GROUP": "VIVIZ",
+      "ERA": "VarioUS",
+      "COLOR": "181818",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128308603032436777/VZEU_VR.png"
+    }
+  ],
+
+"VZUM_VR": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **VIVIZ** UMJI",
+      "RARITY": "C",
+      "GROUP": "VIVIZ",
+      "ERA": "VarioUS",
+      "COLOR": "181818",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128308603703529613/VZUM_VR.png"
+    }
+  ],
+
+"VZSB_VR": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **VIVIZ** SINB",
+      "RARITY": "C",
+      "GROUP": "VIVIZ",
+      "ERA": "VarioUS",
+      "COLOR": "181818",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128308603359600650/VZSB_VR.png"
+    }
+  ],
+
+"VZEU_TT": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **VIVIZ** EUNHA",
+      "RARITY": "C",
+      "GROUP": "VIVIZ",
+      "ERA": "Tweet Tweet",
+      "COLOR": "250d6f",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128743317828554850/VZEU_TT.png"
+    }
+  ],
+
+"VZUM_TT": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **VIVIZ** UMJI",
+      "RARITY": "C",
+      "GROUP": "VIVIZ",
+      "ERA": "Tweet Tweet",
+      "COLOR": "860106",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128743318457700465/VZUM_TT.png"
+    }
+  ],
+
+"VZSB_TT": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **VIVIZ** SINB",
+      "RARITY": "C",
+      "GROUP": "VIVIZ",
+      "ERA": "Tweet Tweet",
+      "COLOR": "0b1956",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128743318134734960/VZSB_TT.png"
+    }
+  ],
+
+"VZEU_BB": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **VIVIZ** EUNHA",
+      "RARITY": "B",
+      "GROUP": "VIVIZ",
+      "ERA": "BOP BOP!",
+      "COLOR": "ff6c43",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128713613440450661/VZEU_BB.png"
+    }
+  ],
+
+"VZUM_BB": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **VIVIZ** UMJI",
+      "RARITY": "B",
+      "GROUP": "VIVIZ",
+      "ERA": "BOP BOP!",
+      "COLOR": "ff6c43",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128713613046202418/VZUM_BB.png"
+    }
+  ],
+
+"VZSB_BB": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **VIVIZ** SINB",
+      "RARITY": "B",
+      "GROUP": "VIVIZ",
+      "ERA": "BOP BOP!",
+      "COLOR": "ff6c43",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128713612681281637/VZSB_BB.png"
+    }
+  ],
+
+"VZEU_LV": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **VIVIZ** EUNHA",
+      "RARITY": "B",
+      "GROUP": "VIVIZ",
+      "ERA": "LOVEADE",
+      "COLOR": "ff89ad",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128926824907407360/VZEU_LV.png"
+    }
+  ],
+
+"VZUM_LV": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **VIVIZ** UMJI",
+      "RARITY": "B",
+      "GROUP": "VIVIZ",
+      "ERA": "LOVEADE",
+      "COLOR": "f9c844",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128926825498820708/VZUM_LV.png"
+    }
+  ],
+
+"VZSB_LV": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **VIVIZ** SINB",
+      "RARITY": "B",
+      "GROUP": "VIVIZ",
+      "ERA": "LOVEADE",
+      "COLOR": "a6c6c4",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128926825171669002/VZSB_LV.png"
+    }
+  ],
+
+"VZEU_PU": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **VIVIZ** EUNHA",
+      "RARITY": "B",
+      "GROUP": "VIVIZ",
+      "ERA": "PULL UP",
+      "COLOR": "7b574a",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128926883657027664/VZEU_PU.png"
+    }
+  ],
+
+"VZUM_PU": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **VIVIZ** UMJI",
+      "RARITY": "B",
+      "GROUP": "VIVIZ",
+      "ERA": "PULL UP",
+      "COLOR": "7b574a",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128926887549345812/VZUM_PU.png"
+    }
+  ],
+
+"VZSB_PU": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **VIVIZ** SINB",
+      "RARITY": "B",
+      "GROUP": "VIVIZ",
+      "ERA": "PULL UP",
+      "COLOR": "7b574a",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128926883925475358/VZSB_PU.png"
+    }
+  ],
+
+"VZEU_OD": [
+    {
+      "NAME": "<:ACLASS:1121062328364974170> `[★★★]` **VIVIZ** EUNHA",
+      "RARITY": "A",
+      "GROUP": "VIVIZ",
+      "ERA": "Overdrive",
+      "COLOR": "44a289",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128760317380395198/VZEU_OD.png"
+    }
+  ],
+
+"VZUM_OD": [
+    {
+      "NAME": "<:ACLASS:1121062328364974170> `[★★★]` **VIVIZ** UMJI",
+      "RARITY": "A",
+      "GROUP": "VIVIZ",
+      "ERA": "Overdrive",
+      "COLOR": "44a289",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128760316877099061/VZUM_OD.png"
+    }
+  ],
+
+"VZSB_OD": [
+    {
+      "NAME": "<:ACLASS:1121062328364974170> `[★★★]` **VIVIZ** SINB",
+      "RARITY": "A",
+      "GROUP": "VIVIZ",
+      "ERA": "Overdrive",
+      "COLOR": "44a289",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128760317623668806/VZSB_OD.png"
+    }
+  ],
+
+"VZEU_MR": [
+    {
+      "NAME": "<:ACLASS:1121062328364974170> `[★★★]` **VIVIZ** EUNHA",
+      "RARITY": "A",
+      "GROUP": "VIVIZ",
+      "ERA": "Mirror",
+      "COLOR": "ffb2a8",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128753134387343460/VZEU_MR.png"
+    }
+  ],
+
+"VZUM_MR": [
+    {
+      "NAME": "<:ACLASS:1121062328364974170> `[★★★]` **VIVIZ** UMJI",
+      "RARITY": "A",
+      "GROUP": "VIVIZ",
+      "ERA": "Mirror",
+      "COLOR": "ffb2a8",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128753133770789014/VZUM_MR.png"
+    }
+  ],
+
+"VZSB_MR": [
+    {
+      "NAME": "<:ACLASS:1121062328364974170> `[★★★]` **VIVIZ** SINB",
+      "RARITY": "A",
+      "GROUP": "VIVIZ",
+      "ERA": "Mirror",
+      "COLOR": "ffb2a8",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128753134731264100/VZSB_MR.png"
+    }
+  ],
+
+"VZEU_SV": [
+    {
+      "NAME": "<:ACLASS:1121062328364974170> `[★★★]` **VIVIZ** EUNHA",
+      "RARITY": "A",
+      "GROUP": "VIVIZ",
+      "ERA": "Summer Vibe",
+      "COLOR": "ff6b79",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128397429360840714/VZEU_SV.png"
+    }
+  ],
+
+"VZUM_SV": [
+    {
+      "NAME": "<:ACLASS:1121062328364974170> `[★★★]` **VIVIZ** UMJI",
+      "RARITY": "A",
+      "GROUP": "VIVIZ",
+      "ERA": "Summer Vibe",
+      "COLOR": "0078bb",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128397430635892766/VZUM_SV.png"
+    }
+  ],
+
+"VZSB_SV": [
+    {
+      "NAME": "<:ACLASS:1121062328364974170> `[★★★]` **VIVIZ** SINB",
+      "RARITY": "A",
+      "GROUP": "VIVIZ",
+      "ERA": "Summer Vibe",
+      "COLOR": "9d8ac5",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128397429713150002/VZSB_SV.png"
+    }
+  ],
+
+"VZEU_BP": [
+    {
+      "NAME": "<:SCLASS:1121062340478107788> `[☆☆☆]` **VIVIZ** EUNHA",
+      "RARITY": "S",
+      "GROUP": "VIVIZ",
+      "ERA": "Beam of Prism",
+      "COLOR": "6e58c6",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128716145986375738/VZEU_BP.png"
+    }
+  ],
+
+"VZUM_BP": [
+    {
+      "NAME": "<:SCLASS:1121062340478107788> `[☆☆☆]` **VIVIZ** UMJI",
+      "RARITY": "S",
+      "GROUP": "VIVIZ",
+      "ERA": "Beam of Prism",
+      "COLOR": "e93523",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128716145369809029/VZUM_BP.png"
+    }
+  ],
+
+"VZSB_BP": [
+    {
+      "NAME": "<:SCLASS:1121062340478107788> `[☆☆☆]` **VIVIZ** SINB",
+      "RARITY": "S",
+      "GROUP": "VIVIZ",
+      "ERA": "Beam of Prism",
+      "COLOR": "4c80d2",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1128308478407094423/1128716144635826257/VZSB_BP.png"
+    }
+  ],
+
 "PLACEHOLDER": [
     {
       "SOMETHING": "PLACEHOLDER"

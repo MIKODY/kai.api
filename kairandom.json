@@ -35,6 +35,29 @@
     "BSTATUS": "success",
     "BUPGRADE": "https://cdn.discordapp.com/attachments/1121368909048717362/1122912241700831393/FUSEUP.png"
   }
+  ],
+
+"BFUSE": [
+  {
+    "C": "★",
+    "CEMOJI": "FUSEDOWN",
+    "CEMOJI2": "1122818420753313894",
+    "CINFO": "Failed!",
+    "CSTATUS": "danger",
+    "CUPGRADE": "https://cdn.discordapp.com/attachments/1121368909048717362/1122912241197514874/FUSEDOWN.png",
+    "B": "★★",
+    "BEMOJI": "FUSERE",
+    "BEMOJI2": "1122818427489370122",
+    "BINFO": "Oh Well!",
+    "BSTATUS": "primary",
+    "BUPGRADE": "https://cdn.discordapp.com/attachments/1121368909048717362/1122912241461776385/FUSERE.png",
+    "A": "★★★",
+    "AEMOJI": "FUSEUP",
+    "AEMOJI2": "1122818432694501439",
+    "AINFO": "Success!",
+    "ASTATUS": "success",
+    "AUPGRADE": "https://cdn.discordapp.com/attachments/1121368909048717362/1122912241700831393/FUSEUP.png"
+  }
   ]
   
 }

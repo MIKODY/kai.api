@@ -803,6 +803,105 @@
     }
   ],
 
+"TWNA_MS": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **TWICE** NAYEON",
+      "RARITY": "B",
+      "GROUP": "TWICE",
+      "ERA": "Moonlight Sunrise",
+      "COLOR": "e4365c",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1137782108165771295/1137790059748274225/TWNA_MS.png"
+    }
+  ],
+
+"TWJE_MS": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **TWICE** JEONGYEON",
+      "RARITY": "B",
+      "GROUP": "TWICE",
+      "ERA": "Moonlight Sunrise",
+      "COLOR": "e4365c",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1137782108165771295/1137790058036989983/TWJE_MS.png"
+    }
+  ],
+
+"TWMO_MS": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **TWICE** MOMO",
+      "RARITY": "B",
+      "GROUP": "TWICE",
+      "ERA": "Moonlight Sunrise",
+      "COLOR": "e4365c",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1137782108165771295/1137790059400151171/TWMO_MS.png"
+    }
+  ],
+
+"TWSA_MS": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **TWICE** SANA",
+      "RARITY": "B",
+      "GROUP": "TWICE",
+      "ERA": "Moonlight Sunrise",
+      "COLOR": "e4365c",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1137782108165771295/1137790060071227392/TWSA_MS.png"
+    }
+  ],
+
+"TWJH_MS": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **TWICE** JIHYO",
+      "RARITY": "B",
+      "GROUP": "TWICE",
+      "ERA": "Moonlight Sunrise",
+      "COLOR": "e4365c",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1137782108165771295/1137790058380935228/TWJH_MS.png"
+    }
+  ],
+
+"TWMI_MS": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **TWICE** MINA",
+      "RARITY": "B",
+      "GROUP": "TWICE",
+      "ERA": "Moonlight Sunrise",
+      "COLOR": "e4365c",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1137782108165771295/1137790058729058384/TWMI_MS.png"
+    }
+  ],
+
+"TWDH_MS": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **TWICE** DAHYUN",
+      "RARITY": "B",
+      "GROUP": "TWICE",
+      "ERA": "Moonlight Sunrise",
+      "COLOR": "e4365c",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1137782108165771295/1137790057709846710/TWDH_MS.png"
+    }
+  ],
+
+"TWCY_MS": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **TWICE** CHAEYOUNG",
+      "RARITY": "B",
+      "GROUP": "TWICE",
+      "ERA": "Moonlight Sunrise",
+      "COLOR": "e4365c",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1137782108165771295/1137790057290403984/TWCY_MS.png"
+    }
+  ],
+
+"TWTZ_MS": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **TWICE** TZUYU",
+      "RARITY": "B",
+      "GROUP": "TWICE",
+      "ERA": "Moonlight Sunrise",
+      "COLOR": "e4365c",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1137782108165771295/1137790060352258138/TWTZ_MS.png"
+    }
+  ],
+
 "PLACEHOLDER": [
     {
       "SOMETHING": "PLACEHOLDER"

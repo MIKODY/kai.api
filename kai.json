@@ -781,6 +781,28 @@
     }
   ],
 
+"SOTYG_SHA": [
+    {
+      "NAME": "<:SCLASS:1121062340478107788> `[☆☆☆]` **Soloist** TAEYONG",
+      "RARITY": "S",
+      "GROUP": "Soloist",
+      "ERA": "SHALALA",
+      "COLOR": "15d57e",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121055734105395262/1127120725053014096/SOTYG_SHA.png"
+    }
+  ],
+
+"SOTYG_RB": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **Soloist** TAEYONG",
+      "RARITY": "C",
+      "GROUP": "Soloist",
+      "ERA": "RUBY",
+      "COLOR": "5e060a",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121055734105395262/1127120882695946291/SOTYG_RB.png"
+    }
+  ],
+
 "PLACEHOLDER": [
     {
       "SOMETHING": "PLACEHOLDER"

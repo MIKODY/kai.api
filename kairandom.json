@@ -62,19 +62,19 @@
 
 "AFUSE": [
   {
-    "B": "★",
+    "B": "★★",
     "BEMOJI": "FUSEDOWN",
     "BEMOJI2": "1122818420753313894",
     "BINFO": "Failed!",
     "BSTATUS": "danger",
     "BUPGRADE": "https://cdn.discordapp.com/attachments/1121368909048717362/1122912241197514874/FUSEDOWN.png",
-    "A": "★★",
+    "A": "★★★",
     "AEMOJI": "FUSERE",
     "AEMOJI2": "1122818427489370122",
     "AINFO": "Oh Well!",
     "ASTATUS": "primary",
     "AUPGRADE": "https://cdn.discordapp.com/attachments/1121368909048717362/1122912241461776385/FUSERE.png",
-    "S": "★★★",
+    "S": "☆☆☆",
     "SEMOJI": "FUSEUP",
     "SEMOJI2": "1122818432694501439",
     "SINFO": "Success!",

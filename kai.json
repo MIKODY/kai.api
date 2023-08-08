@@ -956,6 +956,61 @@
       "IMAGE": "https://cdn.discordapp.com/attachments/1121361638700879963/1138366040007516240/ITYU_ME.png"
     }
   ],
+
+"TXYJ_GB": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **TXT** YEONJUN",
+      "RARITY": "C",
+      "GROUP": "TXT",
+      "ERA": "Good Boy Gone Bad",
+      "COLOR": "ad2f0c",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1138493105776103557/1138493547021082715/TXYJ_GB.png"
+    }
+  ],
+
+"TXSB_GB": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **TXT** SOOBIN",
+      "RARITY": "C",
+      "GROUP": "TXT",
+      "ERA": "Good Boy Gone Bad",
+      "COLOR": "ad2f0c",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1138493105776103557/1138493546412900382/TXSB_GB.png"
+    }
+  ],
+
+"TXBG_GB": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **TXT** BEOMGYU",
+      "RARITY": "C",
+      "GROUP": "TXT",
+      "ERA": "Good Boy Gone Bad",
+      "COLOR": "ad2f0c",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1138493105776103557/1138493545775386685/TXBG_GB.png"
+    }
+  ],
+
+"TXTH_GB": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **TXT** TAEHYUN",
+      "RARITY": "C",
+      "GROUP": "TXT",
+      "ERA": "Good Boy Gone Bad",
+      "COLOR": "ad2f0c",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1138493105776103557/1138493546735882270/TXTH_GB.png"
+    }
+  ],
+
+"TXHK_GB": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **TXT** HUENINGKAI",
+      "RARITY": "C",
+      "GROUP": "TXT",
+      "ERA": "Good Boy Gone Bad",
+      "COLOR": "ad2f0c",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1138493105776103557/1138493546136084540/TXHK_GB.png"
+    }
+  ],
     
 "PLACEHOLDER": [
     {

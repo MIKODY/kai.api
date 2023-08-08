@@ -902,6 +902,61 @@
     }
   ],
 
+"ITYJ_ME": [
+    {
+      "NAME": "<:SCLASS:1121062340478107788> `[☆☆☆]` **ITZY** YEJI",
+      "RARITY": "S",
+      "GROUP": "ITZY",
+      "ERA": "IT'z ME",
+      "COLOR": "ed870b",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121361638700879963/1138366039642603582/ITYJ_ME.png"
+    }
+  ],
+
+"ITLI_ME": [
+    {
+      "NAME": "<:SCLASS:1121062340478107788> `[☆☆☆]` **ITZY** LIA",
+      "RARITY": "S",
+      "GROUP": "ITZY",
+      "ERA": "IT'z ME",
+      "COLOR": "ed870b",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121361638700879963/1138366039021854761/ITLI_ME.png"
+    }
+  ],
+
+"ITRY_ME": [
+    {
+      "NAME": "<:SCLASS:1121062340478107788> `[☆☆☆]` **ITZY** RYUJIN",
+      "RARITY": "S",
+      "GROUP": "ITZY",
+      "ERA": "IT'z ME",
+      "COLOR": "ed870b",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121361638700879963/1138366039281909760/ITRY_ME.png"
+    }
+  ],
+
+"ITCH_ME": [
+    {
+      "NAME": "<:SCLASS:1121062340478107788> `[☆☆☆]` **ITZY** CHAERYEONG",
+      "RARITY": "S",
+      "GROUP": "ITZY",
+      "ERA": "IT'z ME",
+      "COLOR": "ed870b",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121361638700879963/1138366038770188288/ITCH_ME.png"
+    }
+  ],
+
+"ITYU_ME": [
+    {
+      "NAME": "<:SCLASS:1121062340478107788> `[☆☆☆]` **ITZY** YUNA",
+      "RARITY": "S",
+      "GROUP": "ITZY",
+      "ERA": "IT'z ME",
+      "COLOR": "ed870b",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1121361638700879963/1138366040007516240/ITYU_ME.png"
+    }
+  ],
+    
 "PLACEHOLDER": [
     {
       "SOMETHING": "PLACEHOLDER"

@@ -1133,6 +1133,61 @@
     }
   ],
 
+"CXBX_458": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **CIX** BX",
+      "RARITY": "B",
+      "GROUP": "CIX",
+      "ERA": "458",
+      "COLOR": "766bbb",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1138893787490431037/1138893883233812651/CXBX_458.png"
+    }
+  ],
+
+"CXSE_458": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **CIX** SEUNGHUN",
+      "RARITY": "B",
+      "GROUP": "CIX",
+      "ERA": "458",
+      "COLOR": "766bbb",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1138893787490431037/1138893883728728115/CXSE_458.png"
+    }
+  ],
+
+"CXYH_458": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **CIX** YONGHEE",
+      "RARITY": "B",
+      "GROUP": "CIX",
+      "ERA": "458",
+      "COLOR": "766bbb",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1138893787490431037/1138893883984592916/CXYH_458.png"
+    }
+  ],
+
+"CXBJ_458": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **CIX** BAE JINYOUNG",
+      "RARITY": "B",
+      "GROUP": "CIX",
+      "ERA": "458",
+      "COLOR": "766bbb",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1138893787490431037/1138893882977947800/CXBJ_458.png"
+    }
+  ],
+
+"CXHY_458": [
+    {
+      "NAME": "<:BCLASS:1121062333893066805> `[★★]` **CIX** HYUNSUK",
+      "RARITY": "B",
+      "GROUP": "CIX",
+      "ERA": "458",
+      "COLOR": "766bbb",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1138893787490431037/1138893883493843006/CXHY_458.png"
+    }
+  ],
+    
 "PLACEHOLDER": [
     {
       "SOMETHING": "PLACEHOLDER"

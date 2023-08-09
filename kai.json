@@ -1011,7 +1011,128 @@
       "IMAGE": "https://cdn.discordapp.com/attachments/1138493105776103557/1138493546136084540/TXHK_GB.png"
     }
   ],
-    
+
+"TBSA_CH": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **THE BOYZ** SANGYEON",
+      "RARITY": "C",
+      "GROUP": "THEBOYZ",
+      "ERA": "CHASE",
+      "COLOR": "f0226e",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1138737474445778974/1138737749608902718/TBSA_CH.png"
+    }
+  ],
+
+"TBJA_CH": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **THE BOYZ** JACOB",
+      "RARITY": "C",
+      "GROUP": "THEBOYZ",
+      "ERA": "CHASE",
+      "COLOR": "f0226e",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1138737474445778974/1138737744743510086/TBJA_CH.png"
+    }
+  ],
+
+"TBYH_CH": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **THE BOYZ** YOUNGHOON",
+      "RARITY": "C",
+      "GROUP": "THEBOYZ",
+      "ERA": "CHASE",
+      "COLOR": "f0226e",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1138737474445778974/1138737750229659678/TBYH_CH.png"
+    }
+  ],
+
+"TBHJ_CH": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **THE BOYZ** HYUNJAE",
+      "RARITY": "C",
+      "GROUP": "THEBOYZ",
+      "ERA": "CHASE",
+      "COLOR": "f0226e",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1138737474445778974/1138737744319889429/TBHJ_CH.png"
+    }
+  ],
+
+"TBJY_CH": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **THE BOYZ** JUYEON",
+      "RARITY": "C",
+      "GROUP": "THEBOYZ",
+      "ERA": "CHASE",
+      "COLOR": "f0226e",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1138737474445778974/1138737745435578378/TBJY_CH.png"
+    }
+  ],
+
+"TBKV_CH": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **THE BOYZ** KEVIN",
+      "RARITY": "C",
+      "GROUP": "THEBOYZ",
+      "ERA": "CHASE",
+      "COLOR": "f0226e",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1138737474445778974/1138737745712394260/TBKV_CH.png"
+    }
+  ],
+
+"TBNE_CH": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **THE BOYZ** NEW",
+      "RARITY": "C",
+      "GROUP": "THEBOYZ",
+      "ERA": "CHASE",
+      "COLOR": "f0226e",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1138737474445778974/1138737746031165480/TBNE_CH.png"
+    }
+  ],
+
+"TBQ_CH": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **THE BOYZ** Q",
+      "RARITY": "C",
+      "GROUP": "THEBOYZ",
+      "ERA": "CHASE",
+      "COLOR": "f0226e",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1138737474445778974/1138737746307993610/TBQ_CH.png"
+    }
+  ],
+
+"TBJH_CH": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **THE BOYZ** JUHAKNYEON",
+      "RARITY": "C",
+      "GROUP": "THEBOYZ",
+      "ERA": "CHASE",
+      "COLOR": "f0226e",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1138737474445778974/1138737745150361611/TBJH_CH.png"
+    }
+  ],
+
+"TBSW_CH": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **THE BOYZ** SUNWOO",
+      "RARITY": "C",
+      "GROUP": "THEBOYZ",
+      "ERA": "CHASE",
+      "COLOR": "f0226e",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1138737474445778974/1138737749936046090/TBSW_CH.png"
+    }
+  ],
+
+"TBER_CH": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **THE BOYZ** ERIC",
+      "RARITY": "C",
+      "GROUP": "THEBOYZ",
+      "ERA": "CHASE",
+      "COLOR": "f0226e",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1138737474445778974/1138737743904657468/TBER_CH.png"
+    }
+  ],
+
 "PLACEHOLDER": [
     {
       "SOMETHING": "PLACEHOLDER"

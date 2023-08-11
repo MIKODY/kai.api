@@ -13,8 +13,11 @@
       "BAKERY_L1_UP_CREDIT": "10000",
       "BAKERY_L1_UP_FRAG": "50",
       "BAKERY_L1_SHIFT": "5;10",
-      "BAKERY_L1_PAY": "500;1000",
-      "BAKERY_L2_SHIFT": "10;15",
+      "BAKERY_L1_PAY": "100;500",
+      "BAKERY_L2_UP_CREDIT": "20000",
+      "BAKERY_L2_UP_FRAG": "100",
+      "BAKERY_L2_SHIFT": "7;12",
+      "BAKERY_L2_PAY": "300;700",
       "BAKERY_L3_SHIFT": "15;20"
     }
   ],

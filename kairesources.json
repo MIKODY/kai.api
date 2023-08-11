@@ -16,6 +16,37 @@
       "BAKERY_L2_SHIFT": "10;15",
       "BAKERY_L3_SHIFT": "15;20"
     }
-  ]
+  ],
 
+"BAKERY": [
+    {
+      "BAKERY_BAKERF1": "You accidentally dropped the dough which stalled the rest of your orders!",
+      "BAKERY_BAKERF2": "Too much salt in the bread! Customers left feeling salty~",
+      "BAKERY_BAKERF3": "Oh no! You left the bread in the oven for too long. Now it's not bread, just toast!"
+      "BAKERY_BAKERS1": "A job well done in baking today's batch, delicious!",
+      "BAKERY_BAKERS2": "One of your customers said the bread was excellent!",
+      "BAKERY_BAKERS3": "You made one of your crispiest, crumpiest, tastiest, yummiest, breads of all-time!",
+      "BAKERY_PASTRYCHEFF1": "Not in the mood? Your cakes looked... sad.",
+      "BAKERY_PASTRYCHEFF2": "You mistook a dessert's recipe for another! Who even wants it?",
+      "BAKERY_PASTRYCHEFF3": "Are you serious? These cookies are way beyond raw!",
+      "BAKERY_PASTRYCHEFS1": "Those macarons are so colorful and pleasing! A lot of orders today~",
+      "BAKERY_PASTRYCHEFS2": "You introduced new desserts in the bakery and received great feedback!",
+      "BAKERY_PASTRYCHEFS3": "A customer liked your decoration on their commissioned cake!",
+      "BAKERY_CHOCOLATIERF1": "Not too much of the cocoa! Today's chocolate batch is too strong, argh!",
+      "BAKERY_CHOCOLATIERF2": "You accidentally sold a non-tempered chocolate bar!",
+      "BAKERY_CHOCOLATIERF3": "You thought the chocolate looked fine, but it tasted funny...",
+      "BAKERY_CHOCOLATIERS1": "Those chocolate bars turned out so smooth! Smooth like butter~",
+      "BAKERY_CHOCOLATIERS2": "That chocolate truffle is addicting, sold out in just minutes!",
+      "BAKERY_CHOCOLATIERS3": "Your stock of cocoa today was so good, that all desserts involving chocolate was chef's kiss!"
+
+
+
+
+
+
+
+        
+    }
+  ]
+    
 }

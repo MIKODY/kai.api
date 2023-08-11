@@ -5,7 +5,7 @@
       "NONE": "NONE",
       
       "BAKERY": "JOHNNY's Bakery",
-      "BAKERY_JOB": "Baker, Pastry Chef, Chocolatier",
+      "BAKERY_JOB": "Baker;Pastry Chef;Chocolatier",
       "BAKERY_L1": "50",
       "BAKERY_L2": "100",
       "BAKERY_L3": "150",

@@ -9,7 +9,9 @@
       "BAKERY_L1": "50",
       "BAKERY_L2": "100",
       "BAKERY_L3": "150",
+      "BAKERY_L1_UP": "10000",
       "BAKERY_L1_SHIFT": "5;10",
+      "BAKERY_L1_PAY": "500;1000",
       "BAKERY_L2_SHIFT": "10;15",
       "BAKERY_L3_SHIFT": "15;20"
     }

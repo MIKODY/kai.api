@@ -1187,7 +1187,73 @@
       "IMAGE": "https://cdn.discordapp.com/attachments/1138893787490431037/1138893883493843006/CXHY_458.png"
     }
   ],
-    
+
+"NMHA_LM": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **NMIXX** HAEWON",
+      "RARITY": "C",
+      "GROUP": "NMIXX",
+      "ERA": "Love Me Like This",
+      "COLOR": "8191b3",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1139843569327284234/1139843662768001064/NMHA_LM.png"
+    }
+  ],
+
+"NMLI_LM": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **NMIXX** LILY",
+      "RARITY": "C",
+      "GROUP": "NMIXX",
+      "ERA": "Love Me Like This",
+      "COLOR": "8191b3",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1139843569327284234/1139843663535558726/NMLI_LM.png"
+    }
+  ],
+
+"NMSL_LM": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **NMIXX** SULLYOON",
+      "RARITY": "C",
+      "GROUP": "NMIXX",
+      "ERA": "Love Me Like This",
+      "COLOR": "8191b3",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1139843569327284234/1139843663816560690/NMSL_LM.png"
+    }
+  ],
+
+"NMBA_LM": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **NMIXX** BAE",
+      "RARITY": "C",
+      "GROUP": "NMIXX",
+      "ERA": "Love Me Like This",
+      "COLOR": "8191b3",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1139843569327284234/1139843662403088475/NMBA_LM.png"
+    }
+  ],
+
+"NMJW_LM": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **NMIXX** JIWOO",
+      "RARITY": "C",
+      "GROUP": "NMIXX",
+      "ERA": "Love Me Like This",
+      "COLOR": "8191b3",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1139843569327284234/1139843663015448616/NMJW_LM.png"
+    }
+  ],
+
+"NMKY_LM": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **NMIXX** KYUJIN",
+      "RARITY": "C",
+      "GROUP": "NMIXX",
+      "ERA": "Love Me Like This",
+      "COLOR": "8191b3",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1139843569327284234/1139843663288086578/NMKY_LM.png"
+    }
+  ],
+
 "PLACEHOLDER": [
     {
       "SOMETHING": "PLACEHOLDER"

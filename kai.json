@@ -1254,6 +1254,94 @@
     }
   ],
 
+"SKBC_VM": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **Stray Kids** BANG CHAN",
+      "RARITY": "C",
+      "GROUP": "StrayKids",
+      "ERA": "VENOM",
+      "COLOR": "082715",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1139843582015066162/1139843762814734386/SKBC_VM.png"
+    }
+  ],
+
+"SKLK_VM": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **Stray Kids** BANG CHAN",
+      "RARITY": "C",
+      "GROUP": "StrayKids",
+      "ERA": "VENOM",
+      "COLOR": "082715",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1139843582015066162/1139843764458901575/SKLK_VM.png"
+    }
+  ],
+
+"SKHA_VM": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **Stray Kids** BANG CHAN",
+      "RARITY": "C",
+      "GROUP": "StrayKids",
+      "ERA": "VENOM",
+      "COLOR": "082715",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1139843582015066162/1139843763649400933/SKHA_VM.png"
+    }
+  ],
+
+"SKCH_VM": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **Stray Kids** BANG CHAN",
+      "RARITY": "C",
+      "GROUP": "StrayKids",
+      "ERA": "VENOM",
+      "COLOR": "082715",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1139843582015066162/1139843763083165756/SKCH_VM.png"
+    }
+  ],
+
+"SKHY_VM": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **Stray Kids** BANG CHAN",
+      "RARITY": "C",
+      "GROUP": "StrayKids",
+      "ERA": "VENOM",
+      "COLOR": "082715",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1139843582015066162/1139843763905249290/SKHY_VM.png"
+    }
+  ],
+
+"SKFE_VM": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **Stray Kids** BANG CHAN",
+      "RARITY": "C",
+      "GROUP": "StrayKids",
+      "ERA": "VENOM",
+      "COLOR": "082715",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1139843582015066162/1139843763347394571/SKFE_VM.png"
+    }
+  ],
+
+"SKSE_VM": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **Stray Kids** BANG CHAN",
+      "RARITY": "C",
+      "GROUP": "StrayKids",
+      "ERA": "VENOM",
+      "COLOR": "082715",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1139843582015066162/1139843764786053140/SKSE_VM.png"
+    }
+  ],
+
+"SKIN_VM": [
+    {
+      "NAME": "<:CCLASS:1121062337663746068> `[★]` **Stray Kids** BANG CHAN",
+      "RARITY": "C",
+      "GROUP": "StrayKids",
+      "ERA": "VENOM",
+      "COLOR": "082715",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1139843582015066162/1139843764161089607/SKIN_VM.png"
+    }
+  ],
+
 "PLACEHOLDER": [
     {
       "SOMETHING": "PLACEHOLDER"

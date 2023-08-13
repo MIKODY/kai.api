@@ -1342,6 +1342,61 @@
     }
   ],
 
+"RVIR_BD": [
+    {
+      "NAME": "<:SCLASS:1121062340478107788> `[☆☆☆]` **Red Velvet** IRENE",
+      "RARITY": "S",
+      "GROUP": "RedVelvet",
+      "ERA": "Birthday",
+      "COLOR": "FF007F",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1140002403446423653/1140002475215179786/RVIR_BD.png"
+    }
+  ],
+
+"RVSG_BD": [
+    {
+      "NAME": "<:SCLASS:1121062340478107788> `[☆☆☆]` **Red Velvet** SEULGI",
+      "RARITY": "S",
+      "GROUP": "RedVelvet",
+      "ERA": "Birthday",
+      "COLOR": "FF007F",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1140002403446423653/1140002475852714054/RVSG_BD.png"
+    }
+  ],
+
+"RVWE_BD": [
+    {
+      "NAME": "<:SCLASS:1121062340478107788> `[☆☆☆]` **Red Velvet** WENDY",
+      "RARITY": "S",
+      "GROUP": "RedVelvet",
+      "ERA": "Birthday",
+      "COLOR": "FF007F",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1140002403446423653/1140002476209221733/RVWE_BD.png"
+    }
+  ],
+
+"RVJO_BD": [
+    {
+      "NAME": "<:SCLASS:1121062340478107788> `[☆☆☆]` **Red Velvet** JOY",
+      "RARITY": "S",
+      "GROUP": "RedVelvet",
+      "ERA": "Birthday",
+      "COLOR": "FF007F",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1140002403446423653/1140002475525550111/RVJO_BD.png"
+    }
+  ],
+
+"RVYE_BD": [
+    {
+      "NAME": "<:SCLASS:1121062340478107788> `[☆☆☆]` **Red Velvet** YERI",
+      "RARITY": "S",
+      "GROUP": "RedVelvet",
+      "ERA": "Birthday",
+      "COLOR": "FF007F",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1140002403446423653/1140002476494426222/RVYE_BD.png"
+    }
+  ],
+
 "PLACEHOLDER": [
     {
       "SOMETHING": "PLACEHOLDER"

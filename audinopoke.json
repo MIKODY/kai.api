@@ -1,0 +1,74 @@
+{
+
+    "SM_728": [
+    {
+      "NAME": "<:WATER:1333461736853864591> `728` アシマリ POPPLIO",
+      "ENERGY": "WATER",
+      "STAGE": "BASIC",
+      "DEX": "728",
+      "GENERATION": "7",
+      "GENERATION_NAME": "SUN & MOON",
+      "COLOR": "2b2d31",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1333460270026063872/1333460328477888655/Popplio_728.png"
+    }
+  ],
+
+    "SM_729": [
+    {
+      "NAME": "<:WATER:1333461736853864591> `729` オシャマリ BRIONNE",
+      "ENERGY": "WATER",
+      "STAGE": "STAGE 1",
+      "DEX": "729",
+      "GENERATION": "7",
+      "GENERATION_NAME": "SUN & MOON",
+      "COLOR": "2b2d31",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1333460270026063872/1333460328025030656/Brionne_729.png"
+    }
+  ],
+
+    "SM_730": [
+    {
+      "NAME": "<:WATER:1333461736853864591><:FAIRY:1333461725529509991> `730` アシレーヌ PRIMARINA",
+      "ENERGY": "WATER, FAIRY",
+      "STAGE": "STAGE 2",
+      "DEX": "730",
+      "GENERATION": "7",
+      "GENERATION_NAME": "SUN & MOON",
+      "COLOR": "2b2d31",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1333460270026063872/1333460328742387793/Primarina_730.png"
+    }
+  ],
+
+    "SM_759": [
+    {
+      "NAME": "<:NORMAL:1333461732659822725><:FIGHTING:1333461728679170058> `759` ヌイコグマ STUFFUL",
+      "ENERGY": "NORMAL, FIGHTING",
+      "STAGE": "BASIC",
+      "DEX": "759",
+      "GENERATION": "7",
+      "GENERATION_NAME": "SUN & MOON",
+      "COLOR": "2b2d31",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1333460270026063872/1333460327391825931/Stufful_759.png"
+    }
+  ],
+
+     "SM_760": [
+    {
+      "NAME": "<:NORMAL:1333461732659822725><:FIGHTING:1333461728679170058> `760` キテルグマ BEWEAR",
+      "ENERGY": "NORMAL, FIGHTING",
+      "STAGE": "STAGE 1",
+      "DEX": "760",
+      "GENERATION": "7",
+      "GENERATION_NAME": "SUN & MOON",
+      "COLOR": "2b2d31",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1333460270026063872/1333460327718977576/Bewear_760.png"
+    }
+  ],
+    
+"PLACEHOLDER": [
+    {
+      "SOMETHING": "PLACEHOLDER"
+    }
+  ]
+
+}
